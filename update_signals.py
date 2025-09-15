@@ -23,11 +23,11 @@ for ticker in tickers:
             continue
 
         df["Green"] = vix_fix_green(df)
-        last_rows = df.tail(4)
+        last_rows = df.tail(6)
         signal_idx = np.where(last_rows["Green"].values)[0]
 
         if len(signal_idx) > 0:
-            bars_back = 3 - signal_idx[-1]
+            bars_back = 5 - signal_idx[-1]
             price = float(round(df["Close"].iloc[-1], 2))
 
             # Firmenname sicher extrahieren
