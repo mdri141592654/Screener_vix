@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>VIX Fix Signale</title>
+</head>
+<body>
+  <h1>Aktien mit VIX Fix Grün-Signal</h1>
+  <label>Filter:
+    <select id="filter">
+      <option value="all">Alle (0–3)</option>
+      <option value="0">Aktuell</option>
+      <option value="1">Vor 1 Balken</option>
+      <option value="2">Vor 2 Balken</option>
+      <option value="3">Vor 3 Balken</option>
+    </select>
+  </label>
+
+  <ul id="signals"></ul>
+
+  <script>
+    async function loadSignals() {
+      const response = await fetch("signals.json");
+      const data = await response.json();
+      const filter = document.getElementById("filter").value;
+      const list = document.getElementById("signals");
+      list.innerHTML = "";
+
+      data.forEach(s => {
+        if (filter === "all" || s.signal_bars_back.toString() === filter) {
+          const li = document.createElement("li");
+          let text = `${s.ticker} ${s.name} ${s.price}€ `;
+          text += s.signal_bars_back === 0 
+            ? "grün aktuell" 
+            : `grün vor ${s.signal_bars_back} Balken`;
+          li.textContent = text;
+          list.appendChild(li);
+        }
+      });
+    }
+
+    document.getElementById("filter").addEventListener("change", loadSignals);
+    loadSignals();
+  </script>
+</body>
+</html>
