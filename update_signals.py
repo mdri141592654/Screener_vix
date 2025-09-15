@@ -3,15 +3,7 @@ import pandas as pd
 import numpy as np
 import json
 
-tickers = [
-    "GLW","PTC","FRT","DUK","GE","DB1.DE","MET","NRG","NVDA","MTX.DE","DG","BWA","BLK","AVGO",
-    "VNO","ROL","RSG","CB","LNT","WELL","KMI","ALV.DE","NI","PG","PTC","BR","ATO","EVRG","L","CPB",
-    "ALL","BK","T","DE","ETR","AIG","INVH","FRE.DE","CME","DTE.DE","SO","NDAQ","BLK","AEP","BSX",
-    "EG","DTE","KR","GEV","JCI","WM","IRM","TDY","GIS","VTR","DG","ROP","CBOE","PRU","PYPL","NVR",
-    "TRGP","BXP","CLX","APH","RMD","YUM","PKG","GRMN","VRTX","HIG","KHC","MA","FOXA","AVB","ALLY",
-    "ESS","WTW","PDG","STT","CSCO","HOLX","MAA","CNP","NOW","ROK","VNO","TGT","APA","JPM","DAY",
-    "NSC","KIM","LRCX","BEN","ALGN","UBER","WDC","PARA","AXON","GL","UAL"
-]
+tickers = [ ... ]  # deine Liste
 
 def vix_fix_green(df, pd_=22, bbl=20, mult=2.0, lb=50, pl=1.01):
     wvf = ((df['Close'].rolling(pd_).max() - df['Low']) / df['Close'].rolling(pd_).max()) * 100
@@ -36,11 +28,18 @@ for ticker in tickers:
 
         if len(signal_idx) > 0:
             bars_back = 3 - signal_idx[-1]
-            price = round(df["Close"].iloc[-1], 2)
-            info = yf.Ticker(ticker).fast_info
+            price = float(round(df["Close"].iloc[-1], 2))
+
+            # Firmenname sicher extrahieren
+            name = ""
+            try:
+                name = str(yf.Ticker(ticker).info.get("shortName", ""))
+            except Exception:
+                name = ""
+
             results.append({
-                "ticker": ticker,
-                "name": getattr(info, "shortName", ""),
+                "ticker": str(ticker),
+                "name": name,
                 "price": price,
                 "signal_bars_back": int(bars_back),
                 "date": str(df.index[-1].date())
