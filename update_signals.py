@@ -72,7 +72,7 @@ for ticker in tickers:
         print(f"Fehler bei {ticker}: {e}")
 
 # JSON speichern
-with open("./signals.json", "w") as f:
+with open("signals.json", "w") as f:
     json.dump(results, f, indent=2)
 
 print(f"Fertig! {len(results)} Aktien mit grünen Signalen gefunden.")
