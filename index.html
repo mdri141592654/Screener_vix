@@ -1,40 +1,71 @@
 <!DOCTYPE html>
-<html lang="de">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>VIX Fix Screener</title>
+  <meta charset="utf-8">
+  <title>Screener VIX</title>
   <style>
-    body { font-family: Arial, sans-serif; padding: 20px; }
-    h1 { color: #2c3e50; }
-    ul { list-style: none; padding: 0; }
-    li { background: #ecf0f1; margin: 5px 0; padding: 10px; border-radius: 5px; }
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    #filter { margin-bottom: 20px; }
+    label { margin-right: 10px; }
   </style>
 </head>
 <body>
-  <h1>📈 VIX Fix Screener Ergebnisse</h1>
-  <p>Letztes Update: <span id="timestamp">Lade...</span></p>
-  <h2>Aktien mit grünem Signal</h2>
-  <ul id="signals"></ul>
+  <h1>Screener VIX</h1>
+
+  <div id="filter">
+    <label>Min Kerzen zurück:
+      <input type="range" id="minSlider" min="0" max="7" value="0" oninput="updateFilter()">
+      <span id="minVal">0</span>
+    </label>
+
+    <label>Max Kerzen zurück:
+      <input type="range" id="maxSlider" min="0" max="7" value="5" oninput="updateFilter()">
+      <span id="maxVal">5</span>
+    </label>
+  </div>
+
+  <table border="1" id="resultTable">
+    <thead>
+      <tr><th>Ticker</th><th>Grüne Signale (Kerzen zurück)</th></tr>
+    </thead>
+    <tbody></tbody>
+  </table>
 
   <script>
-    fetch("data/results.json")
-      .then(response => response.json())
-      .then(data => {
-        document.getElementById("timestamp").textContent = data.timestamp;
-        const list = document.getElementById("signals");
-        if (data.signals.length === 0) {
-          list.innerHTML = "<li>Keine grünen Signale gefunden</li>";
-        } else {
-          data.signals.forEach(ticker => {
-            const li = document.createElement("li");
-            li.textContent = ticker;
-            list.appendChild(li);
-          });
-        }
-      })
-      .catch(err => {
-        document.getElementById("signals").innerHTML = "<li>Fehler beim Laden</li>";
-      });
+    let data = {};
+    let minRange = 0;
+    let maxRange = 5;
+
+    async function loadData() {
+      const response = await fetch("data.json?cachebuster=" + Date.now());
+      data = await response.json();
+      updateTable();
+    }
+
+    function updateFilter() {
+      minRange = parseInt(document.getElementById("minSlider").value);
+      maxRange = parseInt(document.getElementById("maxSlider").value);
+      document.getElementById("minVal").textContent = minRange;
+      document.getElementById("maxVal").textContent = maxRange;
+      updateTable();
+    }
+
+    function updateTable() {
+      const tbody = document.querySelector("#resultTable tbody");
+      tbody.innerHTML = "";
+
+      for (const [ticker, info] of Object.entries(data)) {
+        // Check if mindestens ein Signal im Range liegt
+        const inRange = info.green_signals.some(v => v >= minRange && v <= maxRange);
+        if (!inRange) continue;
+
+        const row = document.createElement("tr");
+        row.innerHTML = `<td>${ticker}</td><td>${info.green_signals.join(", ")}</td>`;
+        tbody.appendChild(row);
+      }
+    }
+
+    loadData();
   </script>
 </body>
 </html>
