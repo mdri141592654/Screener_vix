@@ -4,10 +4,24 @@
   <meta charset="UTF-8">
   <title>VIX Fix Screener</title>
   <style>
-    body { font-family: Arial, sans-serif; padding: 20px; }
-    h1 { color: #2c3e50; }
+    body { 
+      font-family: Arial, sans-serif; 
+      padding: 20px; 
+      background-color: #1e1e1e;
+      color: #ecf0f1;
+      font-size: 130%; /* +30% */
+    }
+    h1 { color: #f39c12; }
     ul { list-style: none; padding: 0; }
-    li { background: #ecf0f1; margin: 5px 0; padding: 10px; border-radius: 5px; }
+    li { 
+      background: #2c3e50; 
+      margin: 5px 0; 
+      padding: 10px; 
+      border-radius: 5px; 
+    }
+    .days-0 { border-left: 5px solid #2ecc71; } /* Grün für aktuelle Signale */
+    .days-1 { border-left: 5px solid #f1c40f; } /* Gelb */
+    .days-2 { border-left: 5px solid #e67e22; } /* Orange */
   </style>
 </head>
 <body>
@@ -21,13 +35,24 @@
       .then(response => response.json())
       .then(data => {
         document.getElementById("timestamp").textContent = data.timestamp;
+        let signals = data.signals;
+
+        // Sortieren: zuerst aktuelle Signale (days_since klein), dann alphabetisch
+        signals.sort((a, b) => {
+          if (a.days_since === b.days_since) {
+            return a.ticker.localeCompare(b.ticker);
+          }
+          return a.days_since - b.days_since;
+        });
+
         const list = document.getElementById("signals");
-        if (data.signals.length === 0) {
+        if (signals.length === 0) {
           list.innerHTML = "<li>Keine grünen Signale gefunden</li>";
         } else {
-          data.signals.forEach(ticker => {
+          signals.forEach(entry => {
             const li = document.createElement("li");
-            li.textContent = ticker;
+            li.classList.add("days-" + entry.days_since);
+            li.textContent = `${entry.ticker} (Signal vor ${entry.days_since} Tagen)`;
             list.appendChild(li);
           });
         }
