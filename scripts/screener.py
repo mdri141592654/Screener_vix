@@ -2,51 +2,53 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
+# Kürzere Tickerliste
 tickers = [
-    "GLW","PTC","FRT","DUK","GE","DB1.DE","MET","NRG","NVDA","MTX.DE",
-    "DG","BWA","BLK","AVGO","VNO","ROL","RSG","CB","LNT","WELL","KMI",
-    "ALV.DE","NI","PG","PTC","BR","ATO","EVRG","L","CPB","ALL","BK","T",
-    "DE","ETR","AIG","INVH","FRE.DE","CME","DTE.DE","SO","NDAQ","BLK","AEP",
-    "BSX","EG","DTE","KR","GEV","JCI","WM","IRM","TDY","GIS","VTR","DG",
-    "ROP","CBOE","PRU","PYPL","NVR","TRGP","BXP","CLX","APH","RMD","YUM",
-    "PKG","GRMN","VRTX","HIG","KHC","MA","FOXA","AVB","ALLY","ESS","WTW",
-    "PDG","STT","CSCO","HOLX","MAA","CNP","NOW","ROK","VNO","TGT","APA",
-    "JPM","DAY","NSC","KIM","LRCX","BEN","ALGN","UBER","WDC","PARA","AXON",
-    "GL","UAL"
+    "GLW","PTC","FRT","DUK","GE","DB1.DE","MET","NRG","NVDA","MTX.DE","DG","BWA","BLK",
+    "AVGO","VNO","ROL","RSG","CB","LNT","WELL","KMI","ALV.DE","NI","PG","PTC","BR","ATO",
+    "EVRG","L","CPB","ALL","BK","T","DE","ETR","AIG","INVH","FRE.DE","CME","DTE.DE","SO",
+    "NDAQ","BLK","AEP","BSX","EG","DTE","KR","GEV","JCI","WM","IRM","TDY","GIS","VTR","DG",
+    "ROP","CBOE","PRU","PYPL","NVR","TRGP","BXP","CLX","APH","RMD","YUM","PKG","GRMN","VRTX",
+    "HIG","KHC","MA","FOXA","AVB","ALLY","ESS","WTW","PDG","STT","CSCO","HOLX","MAA","CNP",
+    "NOW","ROK","VNO","TGT","APA","JPM","DAY","NSC","KIM","LRCX","BEN","ALGN","UBER","WDC",
+    "PARA","AXON","GL","UAL"
 ]
 
-def williams_vix_fix(close, low, high, length=22, bbl=20, mult=2.0):
-    wvf = ((high.rolling(length).max() - low) / (high.rolling(length).max())) * 100
-    sdev = mult * wvf.rolling(bbl).std()
-    midline = wvf.rolling(bbl).mean()
-    lower_band = midline - sdev
-    return wvf < lower_band
+# Funktion für VIX FIX
+def vix_fix_signals(df, pd_len=22, bbl=20, mult=2.0, lb=50, pl=1.01):
+    df["wvf"] = ((df["Close"].rolling(pd_len).max() - df["Low"]) / df["Close"].rolling(pd_len).max()) * 100
+    sDev = mult * df["wvf"].rolling(bbl).std()
+    midLine = df["wvf"].rolling(bbl).mean()
+    upperBand = midLine + sDev
+    rangeHigh = df["wvf"].rolling(lb).max() * pl
+    df["isGreenBar"] = (df["wvf"] >= upperBand) | (df["wvf"] >= rangeHigh)
+    return df
 
-result = {}
+# Daten sammeln
+green_signals = []
+end_date = datetime.today()
+start_date = end_date - timedelta(days=100)
 
 for ticker in tickers:
     try:
-        data = yf.download(ticker, period="2y", interval="1h", progress=False)
+        data = yf.download(ticker, start=start_date, end=end_date, interval="1d", progress=False)
         if data.empty: 
             continue
+        df = vix_fix_signals(data)
+        if df["isGreenBar"].iloc[-1] or df["isGreenBar"].iloc[-2] or df["isGreenBar"].iloc[-3]:
+            green_signals.append(ticker)
+    except Exception:
+        continue
 
-        signal = williams_vix_fix(data["Close"], data["Low"], data["High"])
-        signal = signal.fillna(False)
+# Speichern in JSON
+result = {
+    "timestamp": datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC"),
+    "signals": green_signals
+}
 
-        # Prüfen letzte 7 Kerzen zurück
-        green_signals = []
-        for i in range(0, 8):  
-            if signal.iloc[-1 - i]:
-                green_signals.append(i)
-
-        result[ticker] = {
-            "green_signals": green_signals,
-            "last_updated": datetime.utcnow().isoformat()
-        }
-    except Exception as e:
-        print(f"Fehler bei {ticker}: {e}")
-
-with open("data.json", "w") as f:
+with open("data/results.json", "w") as f:
     json.dump(result, f, indent=2)
+
+print("Aktualisierte Ergebnisse gespeichert in data/results.json")
