@@ -1,64 +1,52 @@
 {
-  "timestamp": "2025-09-17 19:20:36 UTC",
+  "timestamp": "2025-09-17 19:32:52 UTC",
   "signals": [
     {
       "ticker": "FRT",
-      "company": "Federal Realty Investment Trust",
       "days_since": 0
     },
     {
       "ticker": "DB1.DE",
-      "company": "Deutsche B\u00f6rse AG",
       "days_since": 0
     },
     {
       "ticker": "ROL",
-      "company": "Rollins, Inc.",
       "days_since": 1
     },
     {
       "ticker": "CB",
-      "company": "Chubb Limited",
       "days_since": 1
     },
     {
       "ticker": "DTE.DE",
-      "company": "Deutsche Telekom AG",
       "days_since": 0
     },
     {
       "ticker": "BSX",
-      "company": "Boston Scientific Corporation",
       "days_since": 0
     },
     {
       "ticker": "EG",
-      "company": "Everest Group, Ltd.",
       "days_since": 0
     },
     {
       "ticker": "PRU",
-      "company": "Prudential Financial, Inc.",
       "days_since": 1
     },
     {
       "ticker": "KHC",
-      "company": "The Kraft Heinz Company",
       "days_since": 2
     },
     {
       "ticker": "HOLX",
-      "company": "Hologic, Inc.",
       "days_since": 1
     },
     {
       "ticker": "KIM",
-      "company": "Kimco Realty Corporation",
       "days_since": 0
     },
     {
       "ticker": "UAL",
-      "company": "United Airlines Holdings, Inc.",
       "days_since": 1
     }
   ]
