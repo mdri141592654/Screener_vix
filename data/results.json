@@ -1,15 +1,45 @@
 {
-  "timestamp": "2025-09-17 18:21:08 UTC",
+  "timestamp": "2025-09-17 18:33:54 UTC",
   "signals": [
-    "DB1.DE",
-    "ROL",
-    "CB",
-    "DTE.DE",
-    "BSX",
-    "EG",
-    "PRU",
-    "KHC",
-    "HOLX",
-    "UAL"
+    {
+      "ticker": "DB1.DE",
+      "days_since": 0
+    },
+    {
+      "ticker": "ROL",
+      "days_since": 1
+    },
+    {
+      "ticker": "CB",
+      "days_since": 1
+    },
+    {
+      "ticker": "DTE.DE",
+      "days_since": 0
+    },
+    {
+      "ticker": "BSX",
+      "days_since": 0
+    },
+    {
+      "ticker": "EG",
+      "days_since": 0
+    },
+    {
+      "ticker": "PRU",
+      "days_since": 1
+    },
+    {
+      "ticker": "KHC",
+      "days_since": 2
+    },
+    {
+      "ticker": "HOLX",
+      "days_since": 1
+    },
+    {
+      "ticker": "UAL",
+      "days_since": 1
+    }
   ]
 }
