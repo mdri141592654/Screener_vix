@@ -6,8 +6,9 @@ import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 import os
 
-# Ordner für Plots
+# Ordner für Plots + HTML
 os.makedirs("data/plots", exist_ok=True)
+os.makedirs("docs/details", exist_ok=True)
 
 tickers = [
     "GLW","PTC","FRT","DUK","GE","DB1.DE","MET","NRG","NVDA","MTX.DE","DG","BWA","BLK",
@@ -110,3 +111,58 @@ with open("data/results.json", "w") as f:
     json.dump(result, f, indent=2)
 
 print("Aktualisierte Ergebnisse gespeichert in data/results.json")
+
+# --------------------------------------------------
+# HTML GENERATOR
+# --------------------------------------------------
+
+# Hauptseite (index.html)
+index_html = """<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Signal Übersicht</title>
+<style>
+body { font-family: Arial; font-size: 20px; }
+a { text-decoration: none; color: blue; }
+</style>
+</head>
+<body>
+<h1>Aktuelle Signale</h1>
+<ul>
+"""
+for s in green_signals:
+    index_html += f'<li><a href="details/{s["ticker"]}.html">{s["ticker"]}</a></li>\n'
+index_html += """
+</ul>
+</body>
+</html>
+"""
+with open("docs/index.html", "w", encoding="utf-8") as f:
+    f.write(index_html)
+
+# Detailseiten
+for s in green_signals:
+    detail_html = f"""<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>{s["ticker"]} Details</title>
+<style>
+body {{ font-family: Arial; font-size: 18px; }}
+a {{ text-decoration: none; color: blue; }}
+</style>
+</head>
+<body>
+<a href="../index.html">&larr; Zurück</a>
+<h1>{s["ticker"]} – {s["company"]}</h1>
+<p><b>Signal vor:</b> {s["days_since"]} Tagen</p>
+<p><b>Daten aktualisiert:</b> {result["timestamp"]}</p>
+<img src="../data/plots/{s["ticker"]}.png" alt="Chart {s["ticker"]}" style="max-width:90%;">
+</body>
+</html>
+"""
+    with open(f"docs/details/{s['ticker']}.html", "w", encoding="utf-8") as f:
+        f.write(detail_html)
+
+print("HTML-Seiten erstellt unter docs/")
