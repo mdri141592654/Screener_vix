@@ -1,27 +1,125 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
   <title>Screener VIX</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; }
-    #filter { margin-bottom: 20px; }
-    label { margin-right: 10px; }
+    h1 { margin-bottom: 20px; }
+
+    /* Dropdown */
+    #filterContainer { margin-bottom: 20px; }
+    .dropdown {
+      border: 1px solid #ccc;
+      padding: 10px;
+      width: 100%;
+      cursor: pointer;
+      background: #f9f9f9;
+    }
+    .dropdown.open {
+      background: #fff;
+      border-bottom: none;
+    }
+    .dropdown-content {
+      display: none;
+      border: 1px solid #ccc;
+      border-top: none;
+      padding: 20px;
+      background: #fff;
+    }
+    .dropdown.open + .dropdown-content {
+      display: block;
+    }
+
+    /* Range Slider Container */
+    .range-slider {
+      position: relative;
+      width: 100%;
+      margin: 40px 0;
+    }
+
+    input[type=range] {
+      -webkit-appearance: none;
+      width: 100%;
+      background: transparent;
+      position: absolute;
+      pointer-events: none; /* beide übereinander legbar */
+    }
+
+    input[type=range]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      pointer-events: auto;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #007bff;
+      cursor: pointer;
+      position: relative;
+      z-index: 2;
+    }
+
+    /* Balken */
+    .slider-track {
+      position: absolute;
+      height: 6px;
+      border-radius: 3px;
+      background: #ddd;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 100%;
+      z-index: 1;
+    }
+    .slider-range {
+      position: absolute;
+      height: 6px;
+      border-radius: 3px;
+      background: #007bff;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 1;
+    }
+
+    /* Einrast-Punkte */
+    .tickmarks {
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      margin-top: 25px;
+      color: #555;
+    }
+
+    /* Popup */
+    .popup {
+      position: absolute;
+      background: #007bff;
+      color: white;
+      padding: 3px 6px;
+      border-radius: 4px;
+      font-size: 12px;
+      transform: translate(-50%, -150%);
+      white-space: nowrap;
+      display: none;
+    }
   </style>
 </head>
 <body>
   <h1>Screener VIX</h1>
 
-  <div id="filter">
-    <label>Min Kerzen zurück:
-      <input type="range" id="minSlider" min="0" max="7" value="0" oninput="updateFilter()">
-      <span id="minVal">0</span>
-    </label>
-
-    <label>Max Kerzen zurück:
-      <input type="range" id="maxSlider" min="0" max="7" value="5" oninput="updateFilter()">
-      <span id="maxVal">5</span>
-    </label>
+  <div id="filterContainer">
+    <div id="dropdown" class="dropdown">Suchbereich: 0–5 Tage</div>
+    <div class="dropdown-content">
+      <div class="range-slider">
+        <div class="slider-track"></div>
+        <div id="sliderRange" class="slider-range"></div>
+        <input type="range" id="minSlider" min="0" max="7" value="0" step="1">
+        <input type="range" id="maxSlider" min="0" max="7" value="5" step="1">
+        <div id="popup" class="popup"></div>
+      </div>
+      <div class="tickmarks">
+        <span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span>
+      </div>
+    </div>
   </div>
 
   <table border="1" id="resultTable">
@@ -36,18 +134,71 @@
     let minRange = 0;
     let maxRange = 5;
 
-    async function loadData() {
-      const response = await fetch("data.json?cachebuster=" + Date.now());
-      data = await response.json();
+    const minSlider = document.getElementById("minSlider");
+    const maxSlider = document.getElementById("maxSlider");
+    const sliderRange = document.getElementById("sliderRange");
+    const popup = document.getElementById("popup");
+    const dropdown = document.getElementById("dropdown");
+
+    // Dropdown Toggle
+    dropdown.addEventListener("click", () => {
+      dropdown.classList.toggle("open");
+    });
+
+    // Update Balken
+    function updateSlider() {
+      const minVal = parseInt(minSlider.value);
+      const maxVal = parseInt(maxSlider.value);
+
+      if (minVal > maxVal) {
+        [minSlider.value, maxSlider.value] = [maxVal, minVal];
+      }
+
+      const minPercent = (minSlider.value / minSlider.max) * 100;
+      const maxPercent = (maxSlider.value / maxSlider.max) * 100;
+
+      sliderRange.style.left = minPercent + "%";
+      sliderRange.style.width = (maxPercent - minPercent) + "%";
+
+      minRange = parseInt(minSlider.value);
+      maxRange = parseInt(maxSlider.value);
+
+      // Dropdown Label aktualisieren
+      if (minRange === maxRange) {
+        dropdown.innerText = "Suchbereich: Tag " + minRange;
+      } else {
+        dropdown.innerText = `Suchbereich: ${minRange}–${maxRange} Tage`;
+      }
+
       updateTable();
     }
 
-    function updateFilter() {
-      minRange = parseInt(document.getElementById("minSlider").value);
-      maxRange = parseInt(document.getElementById("maxSlider").value);
-      document.getElementById("minVal").textContent = minRange;
-      document.getElementById("maxVal").textContent = maxRange;
-      updateTable();
+    // Popup Position
+    function showPopup(e, slider) {
+      popup.style.display = "block";
+      popup.textContent = "Tag " + slider.value;
+
+      const sliderRect = slider.getBoundingClientRect();
+      const offsetX = ((slider.value - slider.min) / (slider.max - slider.min)) * sliderRect.width;
+      popup.style.left = (sliderRect.left + offsetX + window.scrollX) + "px";
+      popup.style.top = (sliderRect.top + window.scrollY - 30) + "px";
+    }
+    function hidePopup() {
+      popup.style.display = "none";
+    }
+
+    minSlider.addEventListener("input", () => updateSlider());
+    maxSlider.addEventListener("input", () => updateSlider());
+
+    minSlider.addEventListener("mousedown", e => showPopup(e, minSlider));
+    maxSlider.addEventListener("mousedown", e => showPopup(e, maxSlider));
+    document.addEventListener("mouseup", hidePopup);
+
+    // Tabelle laden
+    async function loadData() {
+      const response = await fetch("data.json?cachebuster=" + Date.now());
+      data = await response.json();
+      updateSlider();
     }
 
     function updateTable() {
@@ -55,7 +206,6 @@
       tbody.innerHTML = "";
 
       for (const [ticker, info] of Object.entries(data)) {
-        // Check if mindestens ein Signal im Range liegt
         const inRange = info.green_signals.some(v => v >= minRange && v <= maxRange);
         if (!inRange) continue;
 
