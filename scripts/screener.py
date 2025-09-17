@@ -37,8 +37,15 @@ for ticker in tickers:
         if data.empty: 
             continue
         df = vix_fix_signals(data)
-        if df["isGreenBar"].iloc[-1] or df["isGreenBar"].iloc[-2] or df["isGreenBar"].iloc[-3]:
-            green_signals.append(ticker)
+        
+        # Prüfen: innerhalb der letzten 3 Tage grünes Signal?
+        for offset in range(0, 3):
+            if df["isGreenBar"].iloc[-1 - offset]:
+                green_signals.append({
+                    "ticker": ticker,
+                    "days_since": offset
+                })
+                break
     except Exception:
         continue
 
