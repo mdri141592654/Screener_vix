@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>VIX Fix Screener</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    h1 { color: #2c3e50; }
+    ul { list-style: none; padding: 0; }
+    li { background: #ecf0f1; margin: 5px 0; padding: 10px; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <h1>📈 VIX Fix Screener Ergebnisse</h1>
+  <p>Letztes Update: <span id="timestamp">Lade...</span></p>
+  <h2>Aktien mit grünem Signal</h2>
+  <ul id="signals"></ul>
+
+  <script>
+    fetch("data/results.json")
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById("timestamp").textContent = data.timestamp;
+        const list = document.getElementById("signals");
+        if (data.signals.length === 0) {
+          list.innerHTML = "<li>Keine grünen Signale gefunden</li>";
+        } else {
+          data.signals.forEach(ticker => {
+            const li = document.createElement("li");
+            li.textContent = ticker;
+            list.appendChild(li);
+          });
+        }
+      })
+      .catch(err => {
+        document.getElementById("signals").innerHTML = "<li>Fehler beim Laden</li>";
+      });
+  </script>
+</body>
+</html>
