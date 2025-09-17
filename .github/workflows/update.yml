@@ -27,7 +27,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run updater
-        run: python update.py
+        run: python ./update.py
 
       - name: Commit changes
         run: |
