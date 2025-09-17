@@ -9,7 +9,7 @@
       padding: 20px; 
       background-color: #1e1e1e;
       color: #ecf0f1;
-      font-size: 130%; /* +30% */
+      font-size: 155%; /* vorher 130%, jetzt +25% */
     }
     h1 { color: #f39c12; }
     ul { list-style: none; padding: 0; }
@@ -19,9 +19,8 @@
       padding: 10px; 
       border-radius: 5px; 
     }
-    .days-0 { border-left: 5px solid #2ecc71; } /* Grün für aktuelle Signale */
-    .days-1 { border-left: 5px solid #f1c40f; } /* Gelb */
-    .days-2 { border-left: 5px solid #e67e22; } /* Orange */
+    a { color: #1abc9c; text-decoration: none; }
+    a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
@@ -37,7 +36,7 @@
         document.getElementById("timestamp").textContent = data.timestamp;
         let signals = data.signals;
 
-        // Sortieren: zuerst aktuelle Signale (days_since klein), dann alphabetisch
+        // Sortieren
         signals.sort((a, b) => {
           if (a.days_since === b.days_since) {
             return a.ticker.localeCompare(b.ticker);
@@ -51,8 +50,7 @@
         } else {
           signals.forEach(entry => {
             const li = document.createElement("li");
-            li.classList.add("days-" + entry.days_since);
-            li.textContent = `${entry.ticker} (Signal vor ${entry.days_since} Tagen)`;
+            li.innerHTML = `<a href="stock.html?ticker=${entry.ticker}&days=${entry.days_since}&company=${encodeURIComponent(entry.company)}">${entry.ticker} (${entry.company}) – Signal vor ${entry.days_since} Tagen</a>`;
             list.appendChild(li);
           });
         }
