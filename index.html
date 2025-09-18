@@ -22,6 +22,8 @@
     .days-0 { border-left: 5px solid #2ecc71; } /* Grün für aktuelle Signale */
     .days-1 { border-left: 5px solid #f1c40f; } /* Gelb */
     .days-2 { border-left: 5px solid #e67e22; } /* Orange */
+    a { color: #ecf0f1; text-decoration: none; }
+    a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
@@ -52,7 +54,7 @@
           signals.forEach(entry => {
             const li = document.createElement("li");
             li.classList.add("days-" + entry.days_since);
-            li.textContent = `${entry.ticker} (Signal vor ${entry.days_since} Tagen)`;
+            li.innerHTML = `<a href="detail.html?ticker=${entry.ticker}">${entry.ticker} (Signal vor ${entry.days_since} Tagen)</a>`;
             list.appendChild(li);
           });
         }
