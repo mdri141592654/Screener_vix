@@ -37,13 +37,24 @@ for ticker in tickers:
         if data.empty: 
             continue
         df = vix_fix_signals(data)
-        
+
+        # Metadaten holen
+        info = {}
+        try:
+            info = yf.Ticker(ticker).info
+        except Exception:
+            pass
+        company_name = info.get("longName", "Unbekannt")
+
         # Prüfen: innerhalb der letzten 3 Tage grünes Signal?
         for offset in range(0, 3):
             if df["isGreenBar"].iloc[-1 - offset]:
+                price = round(df["Close"].iloc[-1], 2)
                 green_signals.append({
                     "ticker": ticker,
-                    "days_since": offset
+                    "company": company_name,
+                    "days_since": offset,
+                    "last_price": price
                 })
                 break
     except Exception:
