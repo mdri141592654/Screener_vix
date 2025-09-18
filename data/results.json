@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-09-18 18:37:53 UTC",
+  "timestamp": "2025-09-18 19:21:16 UTC",
   "signals": [
     {
       "ticker": "FRT",
       "company": "Federal Realty Investment Trust",
       "days_since": 1,
-      "last_price": 100.23
+      "last_price": 100.24
     },
     {
       "ticker": "DB1.DE",
@@ -17,19 +17,19 @@
       "ticker": "ROL",
       "company": "Rollins, Inc.",
       "days_since": 2,
-      "last_price": 55.89
+      "last_price": 55.82
     },
     {
       "ticker": "CB",
       "company": "Chubb Limited",
       "days_since": 2,
-      "last_price": 274.3
+      "last_price": 274.61
     },
     {
       "ticker": "ATO",
       "company": "Atmos Energy Corporation",
       "days_since": 0,
-      "last_price": 163.01
+      "last_price": 162.77
     },
     {
       "ticker": "DTE.DE",
@@ -41,49 +41,49 @@
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
       "days_since": 0,
-      "last_price": 89.19
+      "last_price": 89.02
     },
     {
       "ticker": "BSX",
       "company": "Boston Scientific Corporation",
       "days_since": 0,
-      "last_price": 98.14
+      "last_price": 98.4
     },
     {
       "ticker": "EG",
       "company": "Everest Group, Ltd.",
       "days_since": 1,
-      "last_price": 335.04
+      "last_price": 335.24
     },
     {
       "ticker": "PRU",
       "company": "Prudential Financial, Inc.",
       "days_since": 2,
-      "last_price": 103.99
+      "last_price": 104.24
     },
     {
       "ticker": "HOLX",
       "company": "Hologic, Inc.",
       "days_since": 2,
-      "last_price": 67.96
+      "last_price": 68.21
     },
     {
       "ticker": "DAY",
       "company": "Dayforce Inc",
       "days_since": 1,
-      "last_price": 68.89
+      "last_price": 68.9
     },
     {
       "ticker": "KIM",
       "company": "Kimco Realty Corporation",
       "days_since": 1,
-      "last_price": 22.15
+      "last_price": 22.16
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 2,
-      "last_price": 105.59
+      "last_price": 105.51
     }
   ]
 }
