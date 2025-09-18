@@ -1,57 +1,83 @@
 {
-  "timestamp": "2025-09-18 05:24:13 UTC",
+  "timestamp": "2025-09-18 06:34:23 UTC",
   "signals": [
     {
       "ticker": "FRT",
-      "days_since": 0
+      "company": "Federal Realty Investment Trust",
+      "days_since": 0,
+      "last_price": 99.29
     },
     {
       "ticker": "DB1.DE",
-      "days_since": 0
+      "company": "Deutsche B\u00f6rse AG",
+      "days_since": 0,
+      "last_price": 230.8
     },
     {
       "ticker": "ROL",
-      "days_since": 1
+      "company": "Rollins, Inc.",
+      "days_since": 1,
+      "last_price": 56.14
     },
     {
       "ticker": "CB",
-      "days_since": 1
+      "company": "Chubb Limited",
+      "days_since": 1,
+      "last_price": 272.25
     },
     {
       "ticker": "DTE.DE",
-      "days_since": 0
+      "company": "Deutsche Telekom AG",
+      "days_since": 0,
+      "last_price": 29.18
     },
     {
       "ticker": "BSX",
-      "days_since": 0
+      "company": "Boston Scientific Corporation",
+      "days_since": 0,
+      "last_price": 98.5
     },
     {
       "ticker": "EG",
-      "days_since": 0
+      "company": "Everest Group, Ltd.",
+      "days_since": 0,
+      "last_price": 333.65
     },
     {
       "ticker": "PRU",
-      "days_since": 1
+      "company": "Prudential Financial, Inc.",
+      "days_since": 1,
+      "last_price": 103.01
     },
     {
       "ticker": "KHC",
-      "days_since": 2
+      "company": "The Kraft Heinz Company",
+      "days_since": 2,
+      "last_price": 25.73
     },
     {
       "ticker": "HOLX",
-      "days_since": 1
+      "company": "Hologic, Inc.",
+      "days_since": 1,
+      "last_price": 68.2
     },
     {
       "ticker": "DAY",
-      "days_since": 0
+      "company": "Dayforce Inc",
+      "days_since": 0,
+      "last_price": 68.41
     },
     {
       "ticker": "KIM",
-      "days_since": 0
+      "company": "Kimco Realty Corporation",
+      "days_since": 0,
+      "last_price": 21.95
     },
     {
       "ticker": "UAL",
-      "days_since": 1
+      "company": "United Airlines Holdings, Inc.",
+      "days_since": 1,
+      "last_price": 105.51
     }
   ]
 }
