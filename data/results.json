@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-09-18 12:53:26 UTC",
+  "timestamp": "2025-09-18 13:33:53 UTC",
   "signals": [
     {
       "ticker": "FRT",
       "company": "Federal Realty Investment Trust",
-      "days_since": 0,
-      "last_price": 99.29
+      "days_since": 1,
+      "last_price": 99.72
     },
     {
       "ticker": "DB1.DE",
@@ -16,14 +16,20 @@
     {
       "ticker": "ROL",
       "company": "Rollins, Inc.",
-      "days_since": 1,
-      "last_price": 56.14
+      "days_since": 2,
+      "last_price": 56.11
     },
     {
       "ticker": "CB",
       "company": "Chubb Limited",
-      "days_since": 1,
-      "last_price": 272.25
+      "days_since": 2,
+      "last_price": 271.85
+    },
+    {
+      "ticker": "ATO",
+      "company": "Atmos Energy Corporation",
+      "days_since": 0,
+      "last_price": 161.0
     },
     {
       "ticker": "DTE.DE",
@@ -34,50 +40,44 @@
     {
       "ticker": "BSX",
       "company": "Boston Scientific Corporation",
-      "days_since": 0,
-      "last_price": 98.5
+      "days_since": 1,
+      "last_price": 98.21
     },
     {
       "ticker": "EG",
       "company": "Everest Group, Ltd.",
-      "days_since": 0,
-      "last_price": 333.65
+      "days_since": 1,
+      "last_price": 333.44
     },
     {
       "ticker": "PRU",
       "company": "Prudential Financial, Inc.",
-      "days_since": 1,
-      "last_price": 103.01
-    },
-    {
-      "ticker": "KHC",
-      "company": "The Kraft Heinz Company",
       "days_since": 2,
-      "last_price": 25.73
+      "last_price": 103.29
     },
     {
       "ticker": "HOLX",
       "company": "Hologic, Inc.",
-      "days_since": 1,
-      "last_price": 68.2
+      "days_since": 2,
+      "last_price": 66.99
     },
     {
       "ticker": "DAY",
       "company": "Dayforce Inc",
-      "days_since": 0,
-      "last_price": 68.41
+      "days_since": 1,
+      "last_price": 68.96
     },
     {
       "ticker": "KIM",
       "company": "Kimco Realty Corporation",
-      "days_since": 0,
-      "last_price": 21.95
+      "days_since": 1,
+      "last_price": 22.02
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
-      "days_since": 1,
-      "last_price": 105.51
+      "days_since": 2,
+      "last_price": 105.72
     }
   ]
 }
