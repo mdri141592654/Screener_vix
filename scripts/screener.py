@@ -48,15 +48,15 @@ for ticker in tickers:
 
         # Prüfen: innerhalb der letzten 3 Tage grünes Signal?
         for offset in range(0, 3):
-    if bool(df["isGreenBar"].iloc[-1 - offset]):
-        price = float(round(df["Close"].iloc[-1], 2))
-        green_signals.append({
-            "ticker": str(ticker),
-            "company": str(company_name),
-            "days_since": int(offset),
-            "last_price": price
-        })
-        break
+            if bool(df["isGreenBar"].iloc[-1 - offset]):
+                price = float(round(df["Close"].iloc[-1], 2))
+                green_signals.append({
+                    "ticker": str(ticker),
+                    "company": str(company_name),
+                    "days_since": int(offset),
+                    "last_price": price
+                })
+                break
     except Exception:
         continue
 
