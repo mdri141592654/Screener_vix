@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Ticker Details</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #1e1e1e;
+      color: #ecf0f1;
+      font-size: 130%;
+    }
+    h1 { color: #f39c12; }
+    button {
+      background: #3498db;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-bottom: 20px;
+    }
+    button:hover { background: #2980b9; }
+    .box {
+      background: #2c3e50;
+      padding: 15px;
+      border-radius: 5px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <button onclick="window.location.href='index.html'">⬅ Zurück</button>
+  <h1>📊 Ticker Details</h1>
+  <div id="details">Lade...</div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const ticker = params.get("ticker");
+
+    fetch("data/results.json")
+      .then(response => response.json())
+      .then(data => {
+        const entry = data.signals.find(s => s.ticker === ticker);
+        if (!entry) {
+          document.getElementById("details").innerHTML = "<p>Keine Daten gefunden.</p>";
+          return;
+        }
+
+        const html = `
+          <div class="box"><strong>Ticker:</strong> ${entry.ticker}</div>
+          <div class="box"><strong>Firma:</strong> ${entry.company}</div>
+          <div class="box"><strong>Datenstand:</strong> ${data.timestamp}</div>
+          <div class="box"><strong>Aktueller Preis:</strong> ${entry.last_price} USD</div>
+          <div class="box"><strong>Signal:</strong> vor ${entry.days_since} Tagen</div>
+        `;
+        document.getElementById("details").innerHTML = html;
+      })
+      .catch(err => {
+        document.getElementById("details").innerHTML = "<p>Fehler beim Laden.</p>";
+      });
+  </script>
+</body>
+</html>
