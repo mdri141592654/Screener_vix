@@ -1,12 +1,6 @@
 {
-  "timestamp": "2025-09-22 12:55:42 UTC",
+  "timestamp": "2025-09-22 13:35:52 UTC",
   "signals": [
-    {
-      "ticker": "FRT",
-      "company": "Federal Realty Investment Trust",
-      "days_since": 2,
-      "last_price": 99.62
-    },
     {
       "ticker": "DB1.DE",
       "company": "Deutsche B\u00f6rse AG",
@@ -16,8 +10,8 @@
     {
       "ticker": "ATO",
       "company": "Atmos Energy Corporation",
-      "days_since": 1,
-      "last_price": 162.93
+      "days_since": 2,
+      "last_price": 162.94
     },
     {
       "ticker": "DTE.DE",
@@ -28,32 +22,20 @@
     {
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
-      "days_since": 0,
-      "last_price": 89.57
+      "days_since": 1,
+      "last_price": 89.44
     },
     {
       "ticker": "BSX",
       "company": "Boston Scientific Corporation",
-      "days_since": 1,
-      "last_price": 97.83
-    },
-    {
-      "ticker": "EG",
-      "company": "Everest Group, Ltd.",
       "days_since": 2,
-      "last_price": 335.38
-    },
-    {
-      "ticker": "DAY",
-      "company": "Dayforce Inc",
-      "days_since": 2,
-      "last_price": 68.8
+      "last_price": 97.46
     },
     {
       "ticker": "KIM",
       "company": "Kimco Realty Corporation",
-      "days_since": 2,
-      "last_price": 21.94
+      "days_since": 0,
+      "last_price": 21.84
     }
   ]
 }
