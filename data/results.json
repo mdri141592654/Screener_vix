@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-22 19:21:46 UTC",
+  "timestamp": "2025-09-22 20:29:17 UTC",
   "signals": [
     {
       "ticker": "DB1.DE",
@@ -11,13 +11,13 @@
       "ticker": "PG",
       "company": "The Procter & Gamble Company",
       "days_since": 0,
-      "last_price": 153.89
+      "last_price": 153.07
     },
     {
       "ticker": "ATO",
       "company": "Atmos Energy Corporation",
       "days_since": 2,
-      "last_price": 163.42
+      "last_price": 162.96
     },
     {
       "ticker": "DTE.DE",
@@ -29,37 +29,37 @@
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
       "days_since": 1,
-      "last_price": 89.61
+      "last_price": 89.93
     },
     {
       "ticker": "BSX",
       "company": "Boston Scientific Corporation",
       "days_since": 2,
-      "last_price": 96.85
+      "last_price": 97.03
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
       "days_since": 0,
-      "last_price": 7964.63
+      "last_price": 7925.23
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 43.18
+      "last_price": 43.48
     },
     {
       "ticker": "KIM",
       "company": "Kimco Realty Corporation",
       "days_since": 0,
-      "last_price": 21.75
+      "last_price": 21.77
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 0,
-      "last_price": 103.81
+      "last_price": 104.18
     }
   ]
 }
