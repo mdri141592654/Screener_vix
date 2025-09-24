@@ -1,53 +1,53 @@
 {
-  "timestamp": "2025-09-24 17:23:59 UTC",
+  "timestamp": "2025-09-24 18:35:29 UTC",
   "signals": [
     {
       "ticker": "PG",
       "company": "The Procter & Gamble Company",
       "days_since": 0,
-      "last_price": 153.03
+      "last_price": 152.82
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 0,
-      "last_price": 28.36
+      "last_price": 28.34
     },
     {
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
       "days_since": 0,
-      "last_price": 87.4
+      "last_price": 87.22
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
       "days_since": 1,
-      "last_price": 7981.55
+      "last_price": 7989.6
     },
     {
       "ticker": "MA",
       "company": "Mastercard Incorporated",
       "days_since": 0,
-      "last_price": 566.72
+      "last_price": 565.7
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 42.02
+      "last_price": 41.97
     },
     {
       "ticker": "KIM",
       "company": "Kimco Realty Corporation",
       "days_since": 2,
-      "last_price": 21.73
+      "last_price": 21.67
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 2,
-      "last_price": 102.47
+      "last_price": 102.15
     }
   ]
 }
