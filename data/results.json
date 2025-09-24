@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-09-24 12:54:32 UTC",
+  "timestamp": "2025-09-24 13:35:18 UTC",
   "signals": [
     {
       "ticker": "PG",
       "company": "The Procter & Gamble Company",
       "days_since": 0,
-      "last_price": 152.5
+      "last_price": 152.25
     },
     {
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
-      "days_since": 0,
-      "last_price": 88.44
+      "days_since": 1,
+      "last_price": 88.17
     },
     {
       "ticker": "NVR",
@@ -22,26 +22,26 @@
     {
       "ticker": "MA",
       "company": "Mastercard Incorporated",
-      "days_since": 0,
-      "last_price": 569.97
+      "days_since": 1,
+      "last_price": 569.63
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 42.68
+      "last_price": 42.85
     },
     {
       "ticker": "KIM",
       "company": "Kimco Realty Corporation",
-      "days_since": 1,
-      "last_price": 21.9
+      "days_since": 2,
+      "last_price": 21.88
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
-      "days_since": 1,
-      "last_price": 104.13
+      "days_since": 2,
+      "last_price": 103.74
     }
   ]
 }
