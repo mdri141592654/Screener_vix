@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-24 21:23:20 UTC",
+  "timestamp": "2025-09-24 22:30:01 UTC",
   "signals": [
     {
       "ticker": "PG",
@@ -42,12 +42,6 @@
       "company": "Kimco Realty Corporation",
       "days_since": 2,
       "last_price": 21.63
-    },
-    {
-      "ticker": "UAL",
-      "company": "United Airlines Holdings, Inc.",
-      "days_since": 2,
-      "last_price": 101.39
     }
   ]
 }
