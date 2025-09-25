@@ -1,77 +1,83 @@
 {
-  "timestamp": "2025-09-25 19:22:42 UTC",
+  "timestamp": "2025-09-25 20:29:19 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 0,
-      "last_price": 79.01
+      "last_price": 79.13
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 40.35
+      "last_price": 40.39
     },
     {
       "ticker": "PG",
       "company": "The Procter & Gamble Company",
       "days_since": 1,
-      "last_price": 152.07
+      "last_price": 152.15
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 1,
-      "last_price": 28.4
+      "last_price": 28.3
     },
     {
       "ticker": "INVH",
       "company": "Invitation Homes Inc.",
       "days_since": 0,
-      "last_price": 28.85
+      "last_price": 28.9
     },
     {
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
       "days_since": 1,
-      "last_price": 86.85
+      "last_price": 86.73
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
       "days_since": 2,
-      "last_price": 7919.96
+      "last_price": 7906.69
     },
     {
       "ticker": "MA",
       "company": "Mastercard Incorporated",
       "days_since": 1,
-      "last_price": 567.14
+      "last_price": 567.3
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 40.79
+      "last_price": 40.83
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 40.36
+      "last_price": 40.39
+    },
+    {
+      "ticker": "KIM",
+      "company": "Kimco Realty Corporation",
+      "days_since": 0,
+      "last_price": 21.48
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 0,
-      "last_price": 142.43
+      "last_price": 143.03
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 0,
-      "last_price": 99.32
+      "last_price": 99.15
     }
   ]
 }
