@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-25 01:59:15 UTC",
+  "timestamp": "2025-09-25 03:08:01 UTC",
   "signals": [
     {
       "ticker": "PG",
@@ -45,7 +45,7 @@
     },
     {
       "ticker": "UAL",
-      "company": "Unbekannt",
+      "company": "United Airlines Holdings, Inc.",
       "days_since": 2,
       "last_price": 101.39
     }
