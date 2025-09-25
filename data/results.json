@@ -1,77 +1,77 @@
 {
-  "timestamp": "2025-09-25 16:33:48 UTC",
+  "timestamp": "2025-09-25 17:23:33 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 0,
-      "last_price": 78.97
+      "last_price": 78.79
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 40.42
+      "last_price": 40.16
     },
     {
       "ticker": "PG",
       "company": "The Procter & Gamble Company",
       "days_since": 1,
-      "last_price": 152.08
+      "last_price": 152.46
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 1,
-      "last_price": 28.43
+      "last_price": 28.38
     },
     {
       "ticker": "INVH",
       "company": "Invitation Homes Inc.",
       "days_since": 0,
-      "last_price": 28.89
+      "last_price": 28.86
     },
     {
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
       "days_since": 1,
-      "last_price": 87.28
+      "last_price": 86.84
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
       "days_since": 2,
-      "last_price": 7964.51
+      "last_price": 7969.21
     },
     {
       "ticker": "MA",
       "company": "Mastercard Incorporated",
       "days_since": 1,
-      "last_price": 567.78
+      "last_price": 567.47
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 41.21
+      "last_price": 41.08
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 40.44
+      "last_price": 40.16
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 0,
-      "last_price": 142.64
+      "last_price": 142.29
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 0,
-      "last_price": 100.29
+      "last_price": 99.52
     }
   ]
 }
