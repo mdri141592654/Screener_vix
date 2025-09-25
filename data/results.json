@@ -1,53 +1,59 @@
 {
-  "timestamp": "2025-09-25 12:55:54 UTC",
+  "timestamp": "2025-09-25 13:36:12 UTC",
   "signals": [
+    {
+      "ticker": "GLW",
+      "company": "Corning Incorporated",
+      "days_since": 0,
+      "last_price": 78.53
+    },
     {
       "ticker": "PG",
       "company": "The Procter & Gamble Company",
-      "days_since": 0,
-      "last_price": 152.42
+      "days_since": 1,
+      "last_price": 153.48
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
-      "days_since": 0,
-      "last_price": 28.32
+      "days_since": 1,
+      "last_price": 28.59
     },
     {
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
-      "days_since": 0,
-      "last_price": 87.15
+      "days_since": 1,
+      "last_price": 86.74
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
-      "days_since": 1,
-      "last_price": 8036.63
+      "days_since": 2,
+      "last_price": 7975.0
     },
     {
       "ticker": "MA",
       "company": "Mastercard Incorporated",
-      "days_since": 0,
-      "last_price": 568.81
+      "days_since": 1,
+      "last_price": 571.1
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 41.97
+      "last_price": 40.71
     },
     {
-      "ticker": "KIM",
-      "company": "Kimco Realty Corporation",
-      "days_since": 2,
-      "last_price": 21.63
+      "ticker": "GL",
+      "company": "Globe Life Inc.",
+      "days_since": 0,
+      "last_price": 143.39
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
-      "days_since": 2,
-      "last_price": 101.39
+      "days_since": 0,
+      "last_price": 99.72
     }
   ]
 }
