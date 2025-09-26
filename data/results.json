@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-26 03:06:28 UTC",
+  "timestamp": "2025-09-26 04:31:37 UTC",
   "signals": [
     {
       "ticker": "GLW",
@@ -24,12 +24,6 @@
       "company": "AT&T Inc.",
       "days_since": 1,
       "last_price": 28.3
-    },
-    {
-      "ticker": "INVH",
-      "company": "Invitation Homes Inc.",
-      "days_since": 0,
-      "last_price": 28.9
     },
     {
       "ticker": "NDAQ",
