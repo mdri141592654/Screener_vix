@@ -1,23 +1,23 @@
 {
-  "timestamp": "2025-09-26 19:20:59 UTC",
+  "timestamp": "2025-09-26 20:27:51 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 1,
-      "last_price": 79.21
+      "last_price": 79.35
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 40.08
+      "last_price": 40.27
     },
     {
       "ticker": "PG",
       "company": "The Procter & Gamble Company",
       "days_since": 2,
-      "last_price": 151.86
+      "last_price": 152.5
     },
     {
       "ticker": "T",
@@ -35,49 +35,49 @@
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
       "days_since": 2,
-      "last_price": 87.35
+      "last_price": 87.51
     },
     {
       "ticker": "MA",
       "company": "Mastercard Incorporated",
       "days_since": 2,
-      "last_price": 566.03
+      "last_price": 565.13
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 40.34
+      "last_price": 40.16
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 40.08
+      "last_price": 40.27
     },
     {
       "ticker": "KIM",
       "company": "Kimco Realty Corporation",
       "days_since": 1,
-      "last_price": 21.53
+      "last_price": 21.59
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 0,
-      "last_price": 106.89
+      "last_price": 106.88
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 1,
-      "last_price": 144.16
+      "last_price": 144.56
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 0,
-      "last_price": 98.58
+      "last_price": 97.91
     }
   ]
 }
