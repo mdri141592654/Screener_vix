@@ -1,23 +1,23 @@
 {
-  "timestamp": "2025-09-29 15:28:01 UTC",
+  "timestamp": "2025-09-29 16:27:16 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 2,
-      "last_price": 80.13
+      "last_price": 80.23
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 1,
-      "last_price": 40.66
+      "last_price": 40.67
     },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 0,
-      "last_price": 31.33
+      "last_price": 31.16
     },
     {
       "ticker": "FRE.DE",
@@ -29,37 +29,37 @@
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 39.9
+      "last_price": 39.76
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 1,
-      "last_price": 40.66
+      "last_price": 40.7
     },
     {
       "ticker": "KIM",
       "company": "Kimco Realty Corporation",
       "days_since": 2,
-      "last_price": 21.68
+      "last_price": 21.7
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 1,
-      "last_price": 114.98
+      "last_price": 114.83
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 2,
-      "last_price": 143.89
+      "last_price": 143.7
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 0,
-      "last_price": 97.35
+      "last_price": 97.45
     }
   ]
 }
