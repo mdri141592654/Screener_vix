@@ -1,71 +1,77 @@
 {
-  "timestamp": "2025-09-29 17:24:13 UTC",
+  "timestamp": "2025-09-29 18:37:52 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 2,
-      "last_price": 80.0
+      "last_price": 79.91
+    },
+    {
+      "ticker": "GE",
+      "company": "GE Aerospace",
+      "days_since": 0,
+      "last_price": 293.02
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 1,
-      "last_price": 40.35
+      "last_price": 40.58
     },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 0,
-      "last_price": 30.93
+      "last_price": 30.98
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 0,
-      "last_price": 27.95
+      "last_price": 28.03
     },
     {
       "ticker": "FRE.DE",
       "company": "Fresenius SE & Co. KGaA",
-      "days_since": 0,
-      "last_price": 46.35
+      "days_since": 1,
+      "last_price": 46.47
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 39.71
+      "last_price": 40.06
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 1,
-      "last_price": 40.34
+      "last_price": 40.58
     },
     {
       "ticker": "KIM",
       "company": "Kimco Realty Corporation",
       "days_since": 2,
-      "last_price": 21.65
+      "last_price": 21.68
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 1,
-      "last_price": 114.85
+      "last_price": 115.45
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 2,
-      "last_price": 143.82
+      "last_price": 144.19
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 0,
-      "last_price": 97.29
+      "last_price": 98.54
     }
   ]
 }
