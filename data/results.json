@@ -1,29 +1,23 @@
 {
-  "timestamp": "2025-10-01 12:56:25 UTC",
+  "timestamp": "2025-10-01 13:36:17 UTC",
   "signals": [
     {
       "ticker": "GE",
       "company": "GE Aerospace",
-      "days_since": 1,
-      "last_price": 300.82
-    },
-    {
-      "ticker": "VNO",
-      "company": "Vornado Realty Trust",
       "days_since": 2,
-      "last_price": 40.53
+      "last_price": 295.4
     },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
-      "days_since": 0,
-      "last_price": 31.58
+      "days_since": 1,
+      "last_price": 31.89
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
-      "days_since": 1,
-      "last_price": 28.24
+      "days_since": 2,
+      "last_price": 28.08
     },
     {
       "ticker": "FRE.DE",
@@ -34,38 +28,26 @@
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
-      "days_since": 0,
-      "last_price": 39.2
+      "days_since": 1,
+      "last_price": 39.15
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
-      "days_since": 0,
-      "last_price": 920.28
-    },
-    {
-      "ticker": "VNO",
-      "company": "Vornado Realty Trust",
-      "days_since": 2,
-      "last_price": 40.53
-    },
-    {
-      "ticker": "WDC",
-      "company": "Western Digital Corporation",
-      "days_since": 2,
-      "last_price": 120.06
+      "days_since": 1,
+      "last_price": 932.31
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
-      "days_since": 0,
-      "last_price": 142.97
+      "days_since": 1,
+      "last_price": 141.49
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
-      "days_since": 0,
-      "last_price": 96.5
+      "days_since": 1,
+      "last_price": 95.69
     }
   ]
 }
