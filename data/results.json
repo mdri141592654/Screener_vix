@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-10-01 14:28:08 UTC",
+  "timestamp": "2025-10-01 15:27:54 UTC",
   "signals": [
     {
       "ticker": "GE",
       "company": "GE Aerospace",
       "days_since": 2,
-      "last_price": 299.08
+      "last_price": 299.89
     },
     {
       "ticker": "CPB",
@@ -17,7 +17,7 @@
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 2,
-      "last_price": 28.02
+      "last_price": 27.96
     },
     {
       "ticker": "FRE.DE",
@@ -29,25 +29,25 @@
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 1,
-      "last_price": 39.57
+      "last_price": 39.33
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
       "days_since": 1,
-      "last_price": 929.84
+      "last_price": 913.52
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 0,
-      "last_price": 140.21
+      "last_price": 139.71
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 1,
-      "last_price": 94.98
+      "last_price": 95.31
     }
   ]
 }
