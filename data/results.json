@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-01 03:46:08 UTC",
+  "timestamp": "2025-10-01 04:30:58 UTC",
   "signals": [
     {
       "ticker": "GE",
@@ -48,12 +48,6 @@
       "company": "Vornado Realty Trust",
       "days_since": 2,
       "last_price": 40.53
-    },
-    {
-      "ticker": "BEN",
-      "company": "Franklin Resources, Inc.",
-      "days_since": 0,
-      "last_price": 23.13
     },
     {
       "ticker": "WDC",
