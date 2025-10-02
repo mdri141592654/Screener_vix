@@ -1,47 +1,47 @@
 {
-  "timestamp": "2025-10-02 17:21:39 UTC",
+  "timestamp": "2025-10-02 18:37:30 UTC",
   "signals": [
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 2,
-      "last_price": 31.47
+      "last_price": 31.61
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 0,
-      "last_price": 27.03
+      "last_price": 27.0
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 2,
-      "last_price": 38.78
+      "last_price": 38.91
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
       "days_since": 1,
-      "last_price": 910.85
+      "last_price": 909.4
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 1,
-      "last_price": 131.55
+      "last_price": 130.93
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 0,
-      "last_price": 139.85
+      "last_price": 139.86
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 1,
-      "last_price": 94.45
+      "last_price": 95.05
     }
   ]
 }
