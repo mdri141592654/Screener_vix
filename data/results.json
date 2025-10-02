@@ -1,59 +1,47 @@
 {
-  "timestamp": "2025-10-02 12:52:23 UTC",
+  "timestamp": "2025-10-02 13:34:19 UTC",
   "signals": [
-    {
-      "ticker": "GE",
-      "company": "GE Aerospace",
-      "days_since": 2,
-      "last_price": 300.88
-    },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
-      "days_since": 1,
-      "last_price": 31.99
+      "days_since": 2,
+      "last_price": 31.28
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 0,
-      "last_price": 27.55
-    },
-    {
-      "ticker": "FRE.DE",
-      "company": "Fresenius SE & Co. KGaA",
-      "days_since": 1,
-      "last_price": 47.4
+      "last_price": 27.26
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
-      "days_since": 1,
-      "last_price": 38.75
+      "days_since": 2,
+      "last_price": 38.85
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
-      "days_since": 0,
-      "last_price": 912.43
+      "days_since": 1,
+      "last_price": 896.09
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
-      "days_since": 0,
-      "last_price": 130.59
+      "days_since": 1,
+      "last_price": 135.22
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
-      "days_since": 0,
-      "last_price": 140.98
+      "days_since": 1,
+      "last_price": 139.85
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
-      "days_since": 0,
-      "last_price": 93.15
+      "days_since": 1,
+      "last_price": 93.14
     }
   ]
 }
