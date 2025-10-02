@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-02 11:20:37 UTC",
+  "timestamp": "2025-10-02 12:52:23 UTC",
   "signals": [
     {
       "ticker": "GE",
@@ -22,8 +22,8 @@
     {
       "ticker": "FRE.DE",
       "company": "Fresenius SE & Co. KGaA",
-      "days_since": 0,
-      "last_price": 46.35
+      "days_since": 1,
+      "last_price": 47.4
     },
     {
       "ticker": "ALLY",
