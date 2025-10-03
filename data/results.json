@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-03 15:26:58 UTC",
+  "timestamp": "2025-10-03 16:31:59 UTC",
   "signals": [
     {
       "ticker": "T",
@@ -11,31 +11,31 @@
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 0,
-      "last_price": 162.65
+      "last_price": 163.57
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
       "days_since": 2,
-      "last_price": 910.46
+      "last_price": 914.7
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 2,
-      "last_price": 136.04
+      "last_price": 135.31
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 0,
-      "last_price": 138.59
+      "last_price": 139.0
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 2,
-      "last_price": 94.6
+      "last_price": 94.89
     }
   ]
 }
