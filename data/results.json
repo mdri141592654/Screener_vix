@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-10-06 18:38:17 UTC",
+  "timestamp": "2025-10-06 19:21:07 UTC",
   "signals": [
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 0,
-      "last_price": 26.02
+      "last_price": 25.96
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 1,
-      "last_price": 162.2
+      "last_price": 162.63
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
       "days_since": 0,
-      "last_price": 188.47
+      "last_price": 187.82
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 0,
-      "last_price": 134.89
+      "last_price": 134.33
     }
   ]
 }
