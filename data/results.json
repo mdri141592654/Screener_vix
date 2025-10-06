@@ -1,23 +1,23 @@
 {
-  "timestamp": "2025-10-06 13:35:27 UTC",
+  "timestamp": "2025-10-06 14:28:00 UTC",
   "signals": [
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 0,
-      "last_price": 26.6
+      "last_price": 26.32
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 1,
-      "last_price": 163.45
+      "last_price": 161.65
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 0,
-      "last_price": 137.58
+      "last_price": 136.94
     }
   ]
 }
