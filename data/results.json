@@ -1,65 +1,65 @@
 {
-  "timestamp": "2025-10-07 16:32:49 UTC",
+  "timestamp": "2025-10-07 17:24:27 UTC",
   "signals": [
     {
       "ticker": "DG",
       "company": "Dollar General Corporation",
       "days_since": 0,
-      "last_price": 96.99
+      "last_price": 96.21
     },
     {
       "ticker": "BWA",
       "company": "BorgWarner Inc.",
       "days_since": 0,
-      "last_price": 41.92
+      "last_price": 42.24
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 173.27
+      "last_price": 173.43
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 0,
-      "last_price": 26.27
+      "last_price": 26.2
     },
     {
       "ticker": "DG",
       "company": "Dollar General Corporation",
       "days_since": 0,
-      "last_price": 96.98
+      "last_price": 96.18
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 2,
-      "last_price": 163.9
+      "last_price": 164.74
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 0,
-      "last_price": 147.56
+      "last_price": 146.99
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
       "days_since": 0,
-      "last_price": 187.98
+      "last_price": 188.16
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 0,
-      "last_price": 119.22
+      "last_price": 119.02
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 0,
-      "last_price": 135.49
+      "last_price": 135.04
     }
   ]
 }
