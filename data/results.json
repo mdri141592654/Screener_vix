@@ -1,29 +1,35 @@
 {
-  "timestamp": "2025-10-07 12:55:56 UTC",
+  "timestamp": "2025-10-07 13:36:23 UTC",
   "signals": [
+    {
+      "ticker": "BWA",
+      "company": "BorgWarner Inc.",
+      "days_since": 0,
+      "last_price": 42.81
+    },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 0,
-      "last_price": 25.87
+      "last_price": 26.02
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
-      "days_since": 1,
-      "last_price": 162.6
+      "days_since": 2,
+      "last_price": 163.48
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
       "days_since": 0,
-      "last_price": 187.58
+      "last_price": 187.71
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 0,
-      "last_price": 134.0
+      "last_price": 134.62
     }
   ]
 }
