@@ -1,12 +1,6 @@
 {
-  "timestamp": "2025-10-08 03:04:37 UTC",
+  "timestamp": "2025-10-08 04:31:12 UTC",
   "signals": [
-    {
-      "ticker": "DG",
-      "company": "Dollar General Corporation",
-      "days_since": 0,
-      "last_price": 96.37
-    },
     {
       "ticker": "BWA",
       "company": "BorgWarner Inc.",
@@ -24,12 +18,6 @@
       "company": "AT&T Inc.",
       "days_since": 0,
       "last_price": 26.16
-    },
-    {
-      "ticker": "DG",
-      "company": "Dollar General Corporation",
-      "days_since": 0,
-      "last_price": 96.37
     },
     {
       "ticker": "TRGP",
