@@ -1,53 +1,53 @@
 {
-  "timestamp": "2025-10-08 19:21:00 UTC",
+  "timestamp": "2025-10-08 20:29:06 UTC",
   "signals": [
     {
       "ticker": "BWA",
       "company": "BorgWarner Inc.",
       "days_since": 1,
-      "last_price": 42.9
+      "last_price": 42.83
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 169.42
+      "last_price": 169.14
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
       "days_since": 0,
-      "last_price": 28.08
+      "last_price": 28.14
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 1,
-      "last_price": 26.24
+      "last_price": 26.25
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 0,
-      "last_price": 145.84
+      "last_price": 146.03
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
       "days_since": 0,
-      "last_price": 186.4
+      "last_price": 186.42
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 1,
-      "last_price": 120.94
+      "last_price": 121.18
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 1,
-      "last_price": 135.43
+      "last_price": 136.03
     }
   ]
 }
