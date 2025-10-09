@@ -1,89 +1,89 @@
 {
-  "timestamp": "2025-10-09 18:37:43 UTC",
+  "timestamp": "2025-10-09 19:22:19 UTC",
   "signals": [
     {
       "ticker": "BWA",
       "company": "BorgWarner Inc.",
       "days_since": 0,
-      "last_price": 41.38
+      "last_price": 41.47
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 39.25
+      "last_price": 39.46
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 168.02
+      "last_price": 168.06
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
-      "days_since": 1,
-      "last_price": 27.78
+      "days_since": 0,
+      "last_price": 27.56
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 2,
-      "last_price": 26.25
+      "last_price": 26.23
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
       "days_since": 0,
-      "last_price": 7588.37
+      "last_price": 7625.24
     },
     {
       "ticker": "BXP",
       "company": "BXP, Inc.",
       "days_since": 0,
-      "last_price": 71.43
+      "last_price": 71.47
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 0,
-      "last_price": 143.89
+      "last_price": 143.38
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
       "days_since": 0,
-      "last_price": 185.24
+      "last_price": 185.87
     },
     {
       "ticker": "ESS",
       "company": "Essex Property Trust, Inc.",
       "days_since": 0,
-      "last_price": 259.1
+      "last_price": 259.34
     },
     {
       "ticker": "WTW",
       "company": "Willis Towers Watson Public Limited Company",
       "days_since": 0,
-      "last_price": 337.2
+      "last_price": 337.43
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 39.23
+      "last_price": 39.47
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 2,
-      "last_price": 119.4
+      "last_price": 119.82
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 2,
-      "last_price": 136.71
+      "last_price": 136.45
     }
   ]
 }
