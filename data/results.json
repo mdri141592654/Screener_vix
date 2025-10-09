@@ -1,17 +1,23 @@
 {
-  "timestamp": "2025-10-09 17:25:10 UTC",
+  "timestamp": "2025-10-09 18:37:43 UTC",
   "signals": [
     {
       "ticker": "BWA",
       "company": "BorgWarner Inc.",
       "days_since": 0,
-      "last_price": 41.45
+      "last_price": 41.38
+    },
+    {
+      "ticker": "VNO",
+      "company": "Vornado Realty Trust",
+      "days_since": 0,
+      "last_price": 39.25
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 168.3
+      "last_price": 168.02
     },
     {
       "ticker": "KMI",
@@ -23,43 +29,61 @@
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 2,
-      "last_price": 26.33
+      "last_price": 26.25
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
       "days_since": 0,
-      "last_price": 7583.56
+      "last_price": 7588.37
     },
     {
       "ticker": "BXP",
       "company": "BXP, Inc.",
       "days_since": 0,
-      "last_price": 72.04
+      "last_price": 71.43
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 0,
-      "last_price": 144.52
+      "last_price": 143.89
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
       "days_since": 0,
-      "last_price": 185.85
+      "last_price": 185.24
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust, Inc.",
+      "days_since": 0,
+      "last_price": 259.1
+    },
+    {
+      "ticker": "WTW",
+      "company": "Willis Towers Watson Public Limited Company",
+      "days_since": 0,
+      "last_price": 337.2
+    },
+    {
+      "ticker": "VNO",
+      "company": "Vornado Realty Trust",
+      "days_since": 0,
+      "last_price": 39.23
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 2,
-      "last_price": 118.8
+      "last_price": 119.4
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 2,
-      "last_price": 136.8
+      "last_price": 136.71
     }
   ]
 }
