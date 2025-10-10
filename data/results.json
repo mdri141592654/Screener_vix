@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-10-10 12:54:05 UTC",
+  "timestamp": "2025-10-10 13:34:39 UTC",
   "signals": [
     {
       "ticker": "BWA",
       "company": "BorgWarner Inc.",
-      "days_since": 0,
-      "last_price": 41.64
+      "days_since": 1,
+      "last_price": 41.9
     },
     {
       "ticker": "VNO",
@@ -17,19 +17,19 @@
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 167.27
+      "last_price": 166.89
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
       "days_since": 0,
-      "last_price": 27.52
+      "last_price": 27.71
     },
     {
-      "ticker": "T",
-      "company": "AT&T Inc.",
-      "days_since": 2,
-      "last_price": 26.1
+      "ticker": "TDY",
+      "company": "Teledyne Technologies Incorporated",
+      "days_since": 0,
+      "last_price": 578.16
     },
     {
       "ticker": "NVR",
@@ -41,19 +41,19 @@
       "ticker": "BXP",
       "company": "BXP, Inc.",
       "days_since": 0,
-      "last_price": 71.45
+      "last_price": 71.1
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
-      "days_since": 0,
-      "last_price": 142.69
+      "days_since": 1,
+      "last_price": 143.48
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
-      "days_since": 0,
-      "last_price": 185.85
+      "days_since": 1,
+      "last_price": 187.2
     },
     {
       "ticker": "ESS",
@@ -64,26 +64,14 @@
     {
       "ticker": "WTW",
       "company": "Willis Towers Watson Public Limited Company",
-      "days_since": 0,
-      "last_price": 337.39
+      "days_since": 1,
+      "last_price": 337.41
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
       "last_price": 39.5
-    },
-    {
-      "ticker": "WDC",
-      "company": "Western Digital Corporation",
-      "days_since": 2,
-      "last_price": 119.7
-    },
-    {
-      "ticker": "GL",
-      "company": "Globe Life Inc.",
-      "days_since": 2,
-      "last_price": 136.45
     }
   ]
 }
