@@ -1,83 +1,95 @@
 {
-  "timestamp": "2025-10-10 14:26:57 UTC",
+  "timestamp": "2025-10-10 15:27:16 UTC",
   "signals": [
     {
       "ticker": "BWA",
       "company": "BorgWarner Inc.",
-      "days_since": 1,
-      "last_price": 42.12
+      "days_since": 0,
+      "last_price": 41.43
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
-      "days_since": 1,
-      "last_price": 39.29
+      "days_since": 0,
+      "last_price": 38.79
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 167.28
+      "last_price": 167.1
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
       "days_since": 0,
-      "last_price": 27.55
+      "last_price": 27.58
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes Inc.",
+      "days_since": 0,
+      "last_price": 27.84
     },
     {
       "ticker": "TDY",
       "company": "Teledyne Technologies Incorporated",
       "days_since": 0,
-      "last_price": 575.91
+      "last_price": 572.73
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
-      "days_since": 1,
-      "last_price": 7629.68
+      "days_since": 0,
+      "last_price": 7530.78
     },
     {
       "ticker": "BXP",
       "company": "BXP, Inc.",
       "days_since": 0,
-      "last_price": 71.43
+      "last_price": 70.54
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 0,
-      "last_price": 142.97
+      "last_price": 142.21
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
-      "days_since": 1,
-      "last_price": 185.59
+      "days_since": 0,
+      "last_price": 184.79
     },
     {
       "ticker": "ESS",
       "company": "Essex Property Trust, Inc.",
-      "days_since": 1,
-      "last_price": 258.7
+      "days_since": 0,
+      "last_price": 257.41
     },
     {
       "ticker": "WTW",
       "company": "Willis Towers Watson Public Limited Company",
       "days_since": 1,
-      "last_price": 336.33
+      "last_price": 338.96
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
-      "days_since": 1,
-      "last_price": 39.4
+      "days_since": 0,
+      "last_price": 38.84
     },
     {
       "ticker": "APA",
       "company": "APA Corporation",
       "days_since": 0,
-      "last_price": 23.24
+      "last_price": 22.56
+    },
+    {
+      "ticker": "LRCX",
+      "company": "Lam Research Corporation",
+      "days_since": 0,
+      "last_price": 135.11
     }
   ]
 }
