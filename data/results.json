@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-10-13 15:27:36 UTC",
+  "timestamp": "2025-10-13 16:34:40 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 1,
-      "last_price": 85.75
+      "last_price": 86.14
     },
     {
       "ticker": "FRT",
       "company": "Federal Realty Investment Trust",
       "days_since": 1,
-      "last_price": 96.5
+      "last_price": 96.59
     },
     {
       "ticker": "BWA",
@@ -23,145 +23,145 @@
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 38.76
+      "last_price": 38.82
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 165.98
+      "last_price": 165.44
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
       "days_since": 0,
-      "last_price": 27.17
+      "last_price": 27.25
     },
     {
       "ticker": "INVH",
       "company": "Invitation Homes Inc.",
       "days_since": 1,
-      "last_price": 28.05
+      "last_price": 28.13
     },
     {
       "ticker": "TDY",
       "company": "Teledyne Technologies Incorporated",
       "days_since": 1,
-      "last_price": 572.47
+      "last_price": 573.07
     },
     {
       "ticker": "PYPL",
       "company": "PayPal Holdings, Inc.",
       "days_since": 0,
-      "last_price": 68.74
+      "last_price": 68.88
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
       "days_since": 1,
-      "last_price": 7607.06
+      "last_price": 7607.94
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 0,
-      "last_price": 153.66
+      "last_price": 153.92
     },
     {
       "ticker": "BXP",
       "company": "BXP, Inc.",
       "days_since": 0,
-      "last_price": 70.48
+      "last_price": 70.67
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 0,
-      "last_price": 140.74
+      "last_price": 140.93
     },
     {
       "ticker": "PKG",
       "company": "Packaging Corporation of America",
       "days_since": 0,
-      "last_price": 208.9
+      "last_price": 209.23
     },
     {
       "ticker": "GRMN",
       "company": "Garmin Ltd.",
       "days_since": 1,
-      "last_price": 251.15
+      "last_price": 251.21
     },
     {
       "ticker": "FOXA",
       "company": "Fox Corporation",
       "days_since": 1,
-      "last_price": 57.76
+      "last_price": 57.72
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
       "days_since": 1,
-      "last_price": 184.86
+      "last_price": 185.2
     },
     {
       "ticker": "ESS",
       "company": "Essex Property Trust, Inc.",
       "days_since": 1,
-      "last_price": 257.51
+      "last_price": 258.42
     },
     {
       "ticker": "WTW",
       "company": "Willis Towers Watson Public Limited Company",
       "days_since": 2,
-      "last_price": 336.98
+      "last_price": 337.6
     },
     {
       "ticker": "STT",
       "company": "State Street Corporation",
       "days_since": 1,
-      "last_price": 113.54
+      "last_price": 113.87
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 38.76
+      "last_price": 38.82
     },
     {
       "ticker": "APA",
       "company": "APA Corporation",
       "days_since": 0,
-      "last_price": 22.55
+      "last_price": 22.53
     },
     {
       "ticker": "JPM",
       "company": "JPMorgan Chase & Co.",
       "days_since": 1,
-      "last_price": 308.14
+      "last_price": 307.82
     },
     {
       "ticker": "NSC",
       "company": "Norfolk Southern Corporation",
       "days_since": 0,
-      "last_price": 289.5
+      "last_price": 289.7
     },
     {
       "ticker": "LRCX",
       "company": "Lam Research Corporation",
       "days_since": 1,
-      "last_price": 137.98
+      "last_price": 137.93
     },
     {
       "ticker": "UBER",
       "company": "Uber Technologies, Inc.",
       "days_since": 1,
-      "last_price": 94.27
+      "last_price": 94.48
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 1,
-      "last_price": 117.82
+      "last_price": 118.69
     }
   ]
 }
