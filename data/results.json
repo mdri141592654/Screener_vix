@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13 23:23:01 UTC",
+  "timestamp": "2025-10-14 01:57:41 UTC",
   "signals": [
     {
       "ticker": "GLW",
@@ -112,7 +112,7 @@
     {
       "ticker": "ESS",
       "company": "Essex Property Trust, Inc.",
-      "days_since": 1,
+      "days_since": 0,
       "last_price": 257.58
     },
     {
