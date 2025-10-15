@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-14 23:24:24 UTC",
+  "timestamp": "2025-10-15 02:00:35 UTC",
   "signals": [
     {
       "ticker": "GLW",
@@ -70,7 +70,7 @@
     {
       "ticker": "TDY",
       "company": "Teledyne Technologies Incorporated",
-      "days_since": 1,
+      "days_since": 0,
       "last_price": 571.93
     },
     {
