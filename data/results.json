@@ -1,11 +1,17 @@
 {
-  "timestamp": "2025-10-16 15:29:13 UTC",
+  "timestamp": "2025-10-16 16:34:47 UTC",
   "signals": [
+    {
+      "ticker": "MET",
+      "company": "MetLife, Inc.",
+      "days_since": 0,
+      "last_price": 78.75
+    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA Corporation",
       "days_since": 1,
-      "last_price": 182.03
+      "last_price": 180.12
     },
     {
       "ticker": "BWA",
@@ -17,115 +23,121 @@
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 2,
-      "last_price": 1203.5
+      "last_price": 1182.92
     },
     {
       "ticker": "CB",
       "company": "Chubb Limited",
       "days_since": 0,
-      "last_price": 267.14
+      "last_price": 267.69
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
       "days_since": 2,
-      "last_price": 27.39
+      "last_price": 27.28
     },
     {
       "ticker": "L",
       "company": "Loews Corporation",
       "days_since": 0,
-      "last_price": 98.96
+      "last_price": 98.81
     },
     {
       "ticker": "ALL",
       "company": "The Allstate Corporation",
       "days_since": 0,
-      "last_price": 195.13
+      "last_price": 195.68
     },
     {
       "ticker": "DE",
       "company": "Deere & Company",
       "days_since": 2,
-      "last_price": 451.3
+      "last_price": 451.04
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 2,
-      "last_price": 1203.5
+      "last_price": 1182.92
     },
     {
       "ticker": "JCI",
       "company": "Johnson Controls International plc",
       "days_since": 2,
-      "last_price": 109.41
+      "last_price": 108.83
     },
     {
       "ticker": "TDY",
       "company": "Teledyne Technologies Incorporated",
       "days_since": 1,
-      "last_price": 568.15
+      "last_price": 566.54
     },
     {
       "ticker": "GIS",
       "company": "General Mills, Inc.",
       "days_since": 2,
-      "last_price": 48.08
+      "last_price": 47.89
     },
     {
       "ticker": "PYPL",
       "company": "PayPal Holdings, Inc.",
-      "days_since": 2,
-      "last_price": 66.99
+      "days_since": 0,
+      "last_price": 65.94
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 2,
-      "last_price": 148.7
+      "last_price": 146.58
     },
     {
       "ticker": "APH",
       "company": "Amphenol Corporation",
       "days_since": 2,
-      "last_price": 127.29
+      "last_price": 126.75
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 2,
-      "last_price": 142.66
+      "last_price": 142.71
     },
     {
       "ticker": "PKG",
       "company": "Packaging Corporation of America",
       "days_since": 2,
-      "last_price": 209.12
+      "last_price": 207.26
     },
     {
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, Inc.",
       "days_since": 0,
-      "last_price": 124.83
+      "last_price": 124.43
     },
     {
       "ticker": "WTW",
       "company": "Willis Towers Watson Public Limited Company",
       "days_since": 0,
-      "last_price": 328.62
+      "last_price": 327.37
     },
     {
       "ticker": "JPM",
       "company": "JPMorgan Chase & Co.",
       "days_since": 2,
-      "last_price": 307.64
+      "last_price": 303.17
+    },
+    {
+      "ticker": "UBER",
+      "company": "Uber Technologies, Inc.",
+      "days_since": 0,
+      "last_price": 91.75
     },
     {
       "ticker": "AXON",
       "company": "Axon Enterprise, Inc.",
       "days_since": 1,
-      "last_price": 654.0
+      "last_price": 649.0
     }
   ]
 }
