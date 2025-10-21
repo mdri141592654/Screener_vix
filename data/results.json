@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-10-21 12:58:03 UTC",
+  "timestamp": "2025-10-21 13:41:41 UTC",
   "signals": [
     {
       "ticker": "MET",
       "company": "MetLife, Inc.",
-      "days_since": 1,
-      "last_price": 78.74
+      "days_since": 2,
+      "last_price": 78.68
     },
     {
       "ticker": "MTX.DE",
@@ -16,26 +16,26 @@
     {
       "ticker": "CB",
       "company": "Chubb Limited",
-      "days_since": 1,
-      "last_price": 268.2
+      "days_since": 2,
+      "last_price": 266.64
     },
     {
       "ticker": "L",
       "company": "Loews Corporation",
-      "days_since": 1,
-      "last_price": 99.2
+      "days_since": 2,
+      "last_price": 99.3
     },
     {
       "ticker": "ALL",
       "company": "The Allstate Corporation",
-      "days_since": 0,
-      "last_price": 193.79
+      "days_since": 1,
+      "last_price": 194.82
     },
     {
       "ticker": "BK",
       "company": "The Bank of New York Mellon Corporation",
-      "days_since": 1,
-      "last_price": 108.5
+      "days_since": 2,
+      "last_price": 108.09
     },
     {
       "ticker": "FRE.DE",
@@ -44,52 +44,28 @@
       "last_price": 48.2
     },
     {
-      "ticker": "PYPL",
-      "company": "PayPal Holdings, Inc.",
-      "days_since": 2,
-      "last_price": 69.2
-    },
-    {
       "ticker": "PKG",
       "company": "Packaging Corporation of America",
-      "days_since": 1,
-      "last_price": 205.88
+      "days_since": 2,
+      "last_price": 204.82
     },
     {
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, Inc.",
-      "days_since": 0,
-      "last_price": 123.85
-    },
-    {
-      "ticker": "MA",
-      "company": "Mastercard Incorporated",
-      "days_since": 2,
-      "last_price": 566.36
-    },
-    {
-      "ticker": "WTW",
-      "company": "Willis Towers Watson Public Limited Company",
-      "days_since": 2,
-      "last_price": 330.05
+      "days_since": 1,
+      "last_price": 123.57
     },
     {
       "ticker": "STT",
       "company": "State Street Corporation",
-      "days_since": 1,
-      "last_price": 115.29
+      "days_since": 2,
+      "last_price": 115.18
     },
     {
       "ticker": "JPM",
       "company": "JPMorgan Chase & Co.",
-      "days_since": 1,
-      "last_price": 302.36
-    },
-    {
-      "ticker": "UBER",
-      "company": "Uber Technologies, Inc.",
       "days_since": 2,
-      "last_price": 93.7
+      "last_price": 303.54
     }
   ]
 }
