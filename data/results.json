@@ -1,59 +1,53 @@
 {
-  "timestamp": "2025-10-22 17:23:57 UTC",
+  "timestamp": "2025-10-22 18:40:42 UTC",
   "signals": [
-    {
-      "ticker": "MTX.DE",
-      "company": "MTU Aero Engines AG",
-      "days_since": 2,
-      "last_price": 383.2
-    },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 0,
-      "last_price": 1127.89
+      "last_price": 1125.15
     },
     {
       "ticker": "ALL",
       "company": "The Allstate Corporation",
       "days_since": 2,
-      "last_price": 193.29
+      "last_price": 194.5
     },
     {
       "ticker": "SO",
       "company": "The Southern Company",
       "days_since": 0,
-      "last_price": 97.96
+      "last_price": 97.85
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 0,
-      "last_price": 1125.5
+      "last_price": 1125.15
     },
     {
       "ticker": "GEV",
       "company": "GE Vernova Inc.",
       "days_since": 0,
-      "last_price": 561.08
+      "last_price": 570.0
     },
     {
       "ticker": "TDY",
       "company": "Teledyne Technologies Incorporated",
       "days_since": 0,
-      "last_price": 556.6
+      "last_price": 553.73
     },
     {
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, Inc.",
       "days_since": 2,
-      "last_price": 125.28
+      "last_price": 125.43
     },
     {
       "ticker": "JPM",
       "company": "JPMorgan Chase & Co.",
       "days_since": 0,
-      "last_price": 291.87
+      "last_price": 292.09
     }
   ]
 }
