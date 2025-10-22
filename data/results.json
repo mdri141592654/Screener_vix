@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-22 13:40:52 UTC",
+  "timestamp": "2025-10-22 14:30:32 UTC",
   "signals": [
     {
       "ticker": "MTX.DE",
@@ -11,37 +11,43 @@
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 0,
-      "last_price": 1129.61
+      "last_price": 1127.09
     },
     {
       "ticker": "ALL",
       "company": "The Allstate Corporation",
       "days_since": 2,
-      "last_price": 193.79
+      "last_price": 193.29
     },
     {
       "ticker": "SO",
       "company": "The Southern Company",
       "days_since": 0,
-      "last_price": 96.95
+      "last_price": 97.68
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 0,
-      "last_price": 1129.82
+      "last_price": 1127.09
+    },
+    {
+      "ticker": "GEV",
+      "company": "GE Vernova Inc.",
+      "days_since": 0,
+      "last_price": 547.08
     },
     {
       "ticker": "TDY",
       "company": "Teledyne Technologies Incorporated",
       "days_since": 0,
-      "last_price": 548.0
+      "last_price": 534.14
     },
     {
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, Inc.",
       "days_since": 2,
-      "last_price": 125.53
+      "last_price": 125.37
     }
   ]
 }
