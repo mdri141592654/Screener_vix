@@ -1,53 +1,59 @@
 {
-  "timestamp": "2025-10-23 13:39:20 UTC",
+  "timestamp": "2025-10-23 14:29:08 UTC",
   "signals": [
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 1,
-      "last_price": 1130.0
+      "last_price": 1124.85
+    },
+    {
+      "ticker": "KMI",
+      "company": "Kinder Morgan, Inc.",
+      "days_since": 0,
+      "last_price": 26.61
     },
     {
       "ticker": "SO",
       "company": "The Southern Company",
       "days_since": 1,
-      "last_price": 97.42
+      "last_price": 97.12
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 1,
-      "last_price": 1130.0
+      "last_price": 1124.85
     },
     {
       "ticker": "GEV",
       "company": "GE Vernova Inc.",
       "days_since": 1,
-      "last_price": 593.39
+      "last_price": 587.01
     },
     {
       "ticker": "TDY",
       "company": "Teledyne Technologies Incorporated",
       "days_since": 1,
-      "last_price": 541.06
+      "last_price": 543.3
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
       "days_since": 0,
-      "last_price": 463.4
+      "last_price": 473.79
     },
     {
       "ticker": "PKG",
       "company": "Packaging Corporation of America",
       "days_since": 0,
-      "last_price": 207.79
+      "last_price": 208.59
     },
     {
       "ticker": "JPM",
       "company": "JPMorgan Chase & Co.",
       "days_since": 1,
-      "last_price": 295.03
+      "last_price": 294.86
     }
   ]
 }
