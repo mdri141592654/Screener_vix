@@ -1,47 +1,47 @@
 {
-  "timestamp": "2025-10-27 19:22:14 UTC",
+  "timestamp": "2025-10-27 20:29:15 UTC",
   "signals": [
     {
       "ticker": "DUK",
       "company": "Duke Energy Corporation",
       "days_since": 0,
-      "last_price": 127.17
+      "last_price": 127.49
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
       "days_since": 0,
-      "last_price": 26.11
+      "last_price": 26.15
     },
     {
       "ticker": "SO",
       "company": "The Southern Company",
       "days_since": 0,
-      "last_price": 95.34
+      "last_price": 95.4
     },
     {
       "ticker": "TDY",
       "company": "Teledyne Technologies Incorporated",
       "days_since": 2,
-      "last_price": 528.92
+      "last_price": 528.46
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
       "days_since": 0,
-      "last_price": 459.95
+      "last_price": 463.73
     },
     {
       "ticker": "PKG",
       "company": "Packaging Corporation of America",
       "days_since": 2,
-      "last_price": 207.35
+      "last_price": 206.61
     },
     {
       "ticker": "NSC",
       "company": "Norfolk Southern Corporation",
       "days_since": 1,
-      "last_price": 280.98
+      "last_price": 281.64
     }
   ]
 }
