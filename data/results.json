@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-27 04:37:30 UTC",
+  "timestamp": "2025-10-27 05:29:25 UTC",
   "signals": [
     {
       "ticker": "BLK",
@@ -21,7 +21,7 @@
     },
     {
       "ticker": "BLK",
-      "company": "Unbekannt",
+      "company": "BlackRock, Inc.",
       "days_since": 2,
       "last_price": 1136.63
     },
@@ -45,7 +45,7 @@
     },
     {
       "ticker": "PKG",
-      "company": "Unbekannt",
+      "company": "Packaging Corporation of America",
       "days_since": 1,
       "last_price": 204.83
     },
