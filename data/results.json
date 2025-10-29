@@ -1,77 +1,101 @@
 {
-  "timestamp": "2025-10-29 13:41:21 UTC",
+  "timestamp": "2025-10-29 14:29:39 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 1,
-      "last_price": 88.15
+      "last_price": 90.52
     },
     {
       "ticker": "DUK",
       "company": "Duke Energy Corporation",
       "days_since": 0,
-      "last_price": 125.55
+      "last_price": 124.9
     },
     {
       "ticker": "RSG",
       "company": "Republic Services, Inc.",
       "days_since": 0,
-      "last_price": 215.26
+      "last_price": 214.55
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
       "days_since": 2,
-      "last_price": 26.25
+      "last_price": 26.2
+    },
+    {
+      "ticker": "NI",
+      "company": "NiSource Inc.",
+      "days_since": 0,
+      "last_price": 42.28
+    },
+    {
+      "ticker": "ATO",
+      "company": "Atmos Energy Corporation",
+      "days_since": 0,
+      "last_price": 173.07
     },
     {
       "ticker": "ETR",
       "company": "Entergy Corporation",
       "days_since": 0,
-      "last_price": 96.03
+      "last_price": 94.77
     },
     {
       "ticker": "SO",
       "company": "The Southern Company",
       "days_since": 0,
-      "last_price": 93.92
+      "last_price": 93.26
     },
     {
       "ticker": "AEP",
       "company": "American Electric Power Company, Inc.",
       "days_since": 1,
-      "last_price": 122.38
+      "last_price": 122.16
     },
     {
       "ticker": "EG",
       "company": "Everest Group, Ltd.",
       "days_since": 0,
-      "last_price": 308.59
+      "last_price": 306.54
     },
     {
       "ticker": "DTE",
       "company": "DTE Energy Company",
       "days_since": 0,
-      "last_price": 139.9
+      "last_price": 139.62
     },
     {
       "ticker": "WM",
       "company": "Waste Management, Inc.",
       "days_since": 0,
-      "last_price": 203.26
+      "last_price": 202.99
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
-      "days_since": 1,
-      "last_price": 452.9
+      "days_since": 0,
+      "last_price": 450.79
     },
     {
       "ticker": "GRMN",
       "company": "Garmin Ltd.",
       "days_since": 0,
-      "last_price": 219.22
+      "last_price": 215.94
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay Communities, Inc.",
+      "days_since": 0,
+      "last_price": 178.63
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust, Inc.",
+      "days_since": 0,
+      "last_price": 251.1
     }
   ]
 }
