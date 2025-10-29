@@ -1,107 +1,107 @@
 {
-  "timestamp": "2025-10-29 16:37:21 UTC",
+  "timestamp": "2025-10-29 17:26:44 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 1,
-      "last_price": 91.59
+      "last_price": 90.86
     },
     {
       "ticker": "DUK",
       "company": "Duke Energy Corporation",
       "days_since": 0,
-      "last_price": 124.59
+      "last_price": 124.49
     },
     {
       "ticker": "RSG",
       "company": "Republic Services, Inc.",
       "days_since": 0,
-      "last_price": 212.83
+      "last_price": 213.76
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
       "days_since": 2,
-      "last_price": 26.24
+      "last_price": 26.17
     },
     {
       "ticker": "NI",
       "company": "NiSource Inc.",
       "days_since": 0,
-      "last_price": 43.13
+      "last_price": 43.04
     },
     {
       "ticker": "ATO",
       "company": "Atmos Energy Corporation",
       "days_since": 0,
-      "last_price": 173.31
+      "last_price": 173.47
     },
     {
       "ticker": "ETR",
       "company": "Entergy Corporation",
       "days_since": 0,
-      "last_price": 96.24
+      "last_price": 96.64
     },
     {
       "ticker": "SO",
       "company": "The Southern Company",
       "days_since": 0,
-      "last_price": 93.38
+      "last_price": 93.4
     },
     {
       "ticker": "AEP",
       "company": "American Electric Power Company, Inc.",
       "days_since": 1,
-      "last_price": 120.93
+      "last_price": 121.46
     },
     {
       "ticker": "EG",
       "company": "Everest Group, Ltd.",
       "days_since": 0,
-      "last_price": 313.54
+      "last_price": 312.24
     },
     {
       "ticker": "DTE",
       "company": "DTE Energy Company",
       "days_since": 0,
-      "last_price": 139.51
+      "last_price": 139.66
     },
     {
       "ticker": "WM",
       "company": "Waste Management, Inc.",
       "days_since": 0,
-      "last_price": 199.48
+      "last_price": 199.72
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
       "days_since": 0,
-      "last_price": 452.05
+      "last_price": 451.45
     },
     {
       "ticker": "CLX",
       "company": "The Clorox Company",
       "days_since": 0,
-      "last_price": 112.86
+      "last_price": 112.36
     },
     {
       "ticker": "GRMN",
       "company": "Garmin Ltd.",
       "days_since": 0,
-      "last_price": 226.26
+      "last_price": 224.08
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
       "days_since": 0,
-      "last_price": 177.77
+      "last_price": 177.76
     },
     {
       "ticker": "ESS",
       "company": "Essex Property Trust, Inc.",
       "days_since": 0,
-      "last_price": 250.01
+      "last_price": 249.21
     }
   ]
 }
