@@ -1,149 +1,155 @@
 {
-  "timestamp": "2025-10-30 19:22:16 UTC",
+  "timestamp": "2025-10-30 20:30:16 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 2,
-      "last_price": 90.77
+      "last_price": 90.28
+    },
+    {
+      "ticker": "FRT",
+      "company": "Federal Realty Investment Trust",
+      "days_since": 0,
+      "last_price": 94.87
     },
     {
       "ticker": "DUK",
       "company": "Duke Energy Corporation",
       "days_since": 0,
-      "last_price": 124.89
+      "last_price": 125.21
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 1,
-      "last_price": 1099.54
+      "last_price": 1098.05
     },
     {
       "ticker": "ROL",
       "company": "Rollins, Inc.",
       "days_since": 1,
-      "last_price": 57.54
+      "last_price": 57.79
     },
     {
       "ticker": "RSG",
       "company": "Republic Services, Inc.",
       "days_since": 0,
-      "last_price": 210.93
+      "last_price": 209.92
     },
     {
       "ticker": "NI",
       "company": "NiSource Inc.",
       "days_since": 0,
-      "last_price": 42.01
+      "last_price": 42.13
     },
     {
       "ticker": "ATO",
       "company": "Atmos Energy Corporation",
       "days_since": 1,
-      "last_price": 172.87
+      "last_price": 173.35
     },
     {
       "ticker": "EVRG",
       "company": "Evergy, Inc.",
       "days_since": 1,
-      "last_price": 77.54
+      "last_price": 77.75
     },
     {
       "ticker": "ETR",
       "company": "Entergy Corporation",
       "days_since": 1,
-      "last_price": 96.28
+      "last_price": 96.05
     },
     {
       "ticker": "SO",
       "company": "The Southern Company",
       "days_since": 1,
-      "last_price": 94.61
+      "last_price": 95.07
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 1,
-      "last_price": 1099.73
+      "last_price": 1098.05
     },
     {
       "ticker": "AEP",
       "company": "American Electric Power Company, Inc.",
       "days_since": 2,
-      "last_price": 122.03
+      "last_price": 121.89
     },
     {
       "ticker": "EG",
       "company": "Everest Group, Ltd.",
       "days_since": 1,
-      "last_price": 310.4
+      "last_price": 309.18
     },
     {
       "ticker": "DTE",
       "company": "DTE Energy Company",
       "days_since": 0,
-      "last_price": 138.52
+      "last_price": 138.06
     },
     {
       "ticker": "WM",
       "company": "Waste Management, Inc.",
       "days_since": 0,
-      "last_price": 200.51
+      "last_price": 200.57
     },
     {
       "ticker": "GIS",
       "company": "General Mills, Inc.",
       "days_since": 1,
-      "last_price": 47.17
+      "last_price": 47.05
     },
     {
       "ticker": "VTR",
       "company": "Ventas, Inc.",
       "days_since": 0,
-      "last_price": 74.19
+      "last_price": 74.36
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
       "days_since": 1,
-      "last_price": 443.96
+      "last_price": 443.4
     },
     {
       "ticker": "CLX",
       "company": "The Clorox Company",
       "days_since": 1,
-      "last_price": 112.64
+      "last_price": 112.46
     },
     {
       "ticker": "PKG",
       "company": "Packaging Corporation of America",
       "days_since": 1,
-      "last_price": 196.08
+      "last_price": 196.16
     },
     {
       "ticker": "GRMN",
       "company": "Garmin Ltd.",
       "days_since": 0,
-      "last_price": 216.36
+      "last_price": 214.97
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
       "days_since": 0,
-      "last_price": 174.99
+      "last_price": 174.71
     },
     {
       "ticker": "ESS",
       "company": "Essex Property Trust, Inc.",
       "days_since": 0,
-      "last_price": 250.39
+      "last_price": 249.82
     },
     {
       "ticker": "MAA",
       "company": "Mid-America Apartment Communities, Inc.",
       "days_since": 1,
-      "last_price": 128.74
+      "last_price": 128.81
     },
     {
       "ticker": "CNP",
