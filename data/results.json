@@ -1,155 +1,155 @@
 {
-  "timestamp": "2025-10-30 17:25:49 UTC",
+  "timestamp": "2025-10-30 18:39:39 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 2,
-      "last_price": 90.77
+      "last_price": 91.17
     },
     {
       "ticker": "DUK",
       "company": "Duke Energy Corporation",
       "days_since": 0,
-      "last_price": 124.61
+      "last_price": 124.73
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 1,
-      "last_price": 1098.88
+      "last_price": 1099.71
     },
     {
       "ticker": "ROL",
       "company": "Rollins, Inc.",
       "days_since": 1,
-      "last_price": 57.35
+      "last_price": 57.74
     },
     {
       "ticker": "RSG",
       "company": "Republic Services, Inc.",
       "days_since": 0,
-      "last_price": 210.26
+      "last_price": 210.38
     },
     {
       "ticker": "NI",
       "company": "NiSource Inc.",
       "days_since": 0,
-      "last_price": 41.9
+      "last_price": 41.94
     },
     {
       "ticker": "ATO",
       "company": "Atmos Energy Corporation",
       "days_since": 1,
-      "last_price": 172.89
+      "last_price": 173.11
     },
     {
       "ticker": "EVRG",
       "company": "Evergy, Inc.",
       "days_since": 1,
-      "last_price": 77.49
+      "last_price": 77.55
     },
     {
       "ticker": "ETR",
       "company": "Entergy Corporation",
       "days_since": 1,
-      "last_price": 96.11
+      "last_price": 96.4
     },
     {
       "ticker": "SO",
       "company": "The Southern Company",
       "days_since": 1,
-      "last_price": 93.91
+      "last_price": 94.46
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 1,
-      "last_price": 1098.88
+      "last_price": 1100.79
     },
     {
       "ticker": "AEP",
       "company": "American Electric Power Company, Inc.",
       "days_since": 2,
-      "last_price": 121.2
+      "last_price": 121.96
     },
     {
       "ticker": "EG",
       "company": "Everest Group, Ltd.",
       "days_since": 1,
-      "last_price": 312.23
+      "last_price": 311.42
     },
     {
       "ticker": "DTE",
       "company": "DTE Energy Company",
       "days_since": 1,
-      "last_price": 139.86
+      "last_price": 139.26
     },
     {
       "ticker": "WM",
       "company": "Waste Management, Inc.",
       "days_since": 0,
-      "last_price": 200.35
+      "last_price": 200.49
     },
     {
       "ticker": "GIS",
       "company": "General Mills, Inc.",
       "days_since": 1,
-      "last_price": 47.03
+      "last_price": 47.12
     },
     {
       "ticker": "VTR",
       "company": "Ventas, Inc.",
       "days_since": 0,
-      "last_price": 73.38
+      "last_price": 74.1
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
       "days_since": 1,
-      "last_price": 449.44
+      "last_price": 446.19
     },
     {
       "ticker": "CLX",
       "company": "The Clorox Company",
       "days_since": 1,
-      "last_price": 113.14
+      "last_price": 112.97
     },
     {
       "ticker": "PKG",
       "company": "Packaging Corporation of America",
       "days_since": 1,
-      "last_price": 198.63
+      "last_price": 197.17
     },
     {
       "ticker": "GRMN",
       "company": "Garmin Ltd.",
       "days_since": 0,
-      "last_price": 218.07
+      "last_price": 217.11
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
       "days_since": 0,
-      "last_price": 174.95
+      "last_price": 174.83
     },
     {
       "ticker": "ESS",
       "company": "Essex Property Trust, Inc.",
       "days_since": 0,
-      "last_price": 247.91
+      "last_price": 251.84
     },
     {
       "ticker": "MAA",
       "company": "Mid-America Apartment Communities, Inc.",
       "days_since": 1,
-      "last_price": 128.67
+      "last_price": 128.96
     },
     {
       "ticker": "CNP",
       "company": "CenterPoint Energy, Inc.",
       "days_since": 0,
-      "last_price": 39.01
+      "last_price": 38.97
     }
   ]
 }
