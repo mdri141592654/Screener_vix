@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-30 23:24:24 UTC",
+  "timestamp": "2025-10-31 02:03:50 UTC",
   "signals": [
     {
       "ticker": "GLW",
@@ -82,7 +82,7 @@
     {
       "ticker": "EG",
       "company": "Everest Group, Ltd.",
-      "days_since": 1,
+      "days_since": 0,
       "last_price": 309.18
     },
     {
