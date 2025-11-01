@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-01 03:47:14 UTC",
+  "timestamp": "2025-11-01 04:30:22 UTC",
   "signals": [
     {
       "ticker": "FRT",
@@ -40,7 +40,7 @@
     {
       "ticker": "NI",
       "company": "NiSource Inc.",
-      "days_since": 0,
+      "days_since": 1,
       "last_price": 42.11
     },
     {
