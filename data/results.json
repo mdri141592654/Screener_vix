@@ -1,65 +1,65 @@
 {
-  "timestamp": "2025-11-04 20:31:59 UTC",
+  "timestamp": "2025-11-04 21:25:53 UTC",
   "signals": [
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 0,
-      "last_price": 191.54
+      "last_price": 192.03
     },
     {
       "ticker": "FRT",
       "company": "Federal Realty Investment Trust",
       "days_since": 0,
-      "last_price": 95.92
+      "last_price": 96.06
     },
     {
       "ticker": "DUK",
       "company": "Duke Energy Corporation",
       "days_since": 1,
-      "last_price": 123.84
+      "last_price": 123.83
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 1,
-      "last_price": 1060.27
+      "last_price": 1059.91
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 36.16
+      "last_price": 35.86
     },
     {
       "ticker": "RSG",
       "company": "Republic Services, Inc.",
       "days_since": 1,
-      "last_price": 207.35
+      "last_price": 207.74
     },
     {
       "ticker": "LNT",
       "company": "Alliant Energy Corporation",
       "days_since": 0,
-      "last_price": 66.69
+      "last_price": 66.59
     },
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 0,
-      "last_price": 191.54
+      "last_price": 192.03
     },
     {
       "ticker": "ATO",
       "company": "Atmos Energy Corporation",
       "days_since": 1,
-      "last_price": 174.05
+      "last_price": 173.95
     },
     {
       "ticker": "EVRG",
       "company": "Evergy, Inc.",
       "days_since": 1,
-      "last_price": 77.13
+      "last_price": 77.04
     },
     {
       "ticker": "FRE.DE",
@@ -77,13 +77,13 @@
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 1,
-      "last_price": 1060.61
+      "last_price": 1059.91
     },
     {
       "ticker": "DTE",
       "company": "DTE Energy Company",
       "days_since": 0,
-      "last_price": 133.34
+      "last_price": 133.44
     },
     {
       "ticker": "KR",
@@ -95,49 +95,49 @@
       "ticker": "GIS",
       "company": "General Mills, Inc.",
       "days_since": 1,
-      "last_price": 46.28
+      "last_price": 46.38
     },
     {
       "ticker": "CLX",
       "company": "The Clorox Company",
       "days_since": 1,
-      "last_price": 110.29
+      "last_price": 110.42
     },
     {
       "ticker": "RMD",
       "company": "ResMed Inc.",
       "days_since": 2,
-      "last_price": 245.37
+      "last_price": 246.4
     },
     {
       "ticker": "GRMN",
       "company": "Garmin Ltd.",
       "days_since": 0,
-      "last_price": 205.79
+      "last_price": 205.45
     },
     {
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals Incorporated",
       "days_since": 0,
-      "last_price": 423.2
+      "last_price": 421.67
     },
     {
       "ticker": "CNP",
       "company": "CenterPoint Energy, Inc.",
       "days_since": 1,
-      "last_price": 38.72
+      "last_price": 38.74
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 0,
-      "last_price": 36.13
+      "last_price": 35.86
     },
     {
       "ticker": "TGT",
       "company": "Target Corporation",
       "days_since": 0,
-      "last_price": 90.24
+      "last_price": 89.98
     },
     {
       "ticker": "KIM",
