@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05 13:40:04 UTC",
+  "timestamp": "2025-11-05 14:29:35 UTC",
   "signals": [
     {
       "ticker": "PTC",
@@ -126,12 +126,6 @@
       "company": "CenterPoint Energy, Inc.",
       "days_since": 1,
       "last_price": 38.74
-    },
-    {
-      "ticker": "VNO",
-      "company": "Vornado Realty Trust",
-      "days_since": 0,
-      "last_price": 35.86
     },
     {
       "ticker": "TGT",
