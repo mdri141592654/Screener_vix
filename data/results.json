@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05 10:32:10 UTC",
+  "timestamp": "2025-11-05 11:24:38 UTC",
   "signals": [
     {
       "ticker": "PTC",
@@ -62,16 +62,10 @@
       "last_price": 77.04
     },
     {
-      "ticker": "FRE.DE",
-      "company": "Fresenius SE & Co. KGaA",
-      "days_since": 0,
-      "last_price": 48.52
-    },
-    {
       "ticker": "DTE.DE",
       "company": "Deutsche Telekom AG",
       "days_since": 0,
-      "last_price": 26.62
+      "last_price": 26.65
     },
     {
       "ticker": "BLK",
