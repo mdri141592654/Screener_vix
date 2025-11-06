@@ -1,23 +1,17 @@
 {
-  "timestamp": "2025-11-06 19:22:18 UTC",
+  "timestamp": "2025-11-06 20:31:26 UTC",
   "signals": [
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 0,
-      "last_price": 173.62
+      "last_price": 173.47
     },
     {
       "ticker": "FRT",
       "company": "Federal Realty Investment Trust",
-      "days_since": 1,
-      "last_price": 96.43
-    },
-    {
-      "ticker": "DUK",
-      "company": "Duke Energy Corporation",
       "days_since": 2,
-      "last_price": 124.71
+      "last_price": 96.66
     },
     {
       "ticker": "DB1.DE",
@@ -29,133 +23,85 @@
       "ticker": "MET",
       "company": "MetLife, Inc.",
       "days_since": 0,
-      "last_price": 76.21
-    },
-    {
-      "ticker": "BLK",
-      "company": "BlackRock, Inc.",
-      "days_since": 2,
-      "last_price": 1068.51
+      "last_price": 76.51
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 1,
-      "last_price": 35.43
-    },
-    {
-      "ticker": "RSG",
-      "company": "Republic Services, Inc.",
-      "days_since": 2,
-      "last_price": 205.33
+      "last_price": 35.79
     },
     {
       "ticker": "LNT",
       "company": "Alliant Energy Corporation",
-      "days_since": 1,
-      "last_price": 67.19
+      "days_since": 2,
+      "last_price": 67.0
     },
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 0,
-      "last_price": 173.62
-    },
-    {
-      "ticker": "ATO",
-      "company": "Atmos Energy Corporation",
-      "days_since": 2,
-      "last_price": 178.0
+      "last_price": 173.49
     },
     {
       "ticker": "EVRG",
       "company": "Evergy, Inc.",
       "days_since": 0,
-      "last_price": 76.64
+      "last_price": 76.18
     },
     {
       "ticker": "FRE.DE",
       "company": "Fresenius SE & Co. KGaA",
-      "days_since": 0,
+      "days_since": 1,
       "last_price": 48.25
     },
     {
       "ticker": "DTE.DE",
       "company": "Deutsche Telekom AG",
-      "days_since": 1,
-      "last_price": 26.35
-    },
-    {
-      "ticker": "BLK",
-      "company": "BlackRock, Inc.",
       "days_since": 2,
-      "last_price": 1068.44
+      "last_price": 26.35
     },
     {
       "ticker": "DTE",
       "company": "DTE Energy Company",
+      "days_since": 2,
+      "last_price": 134.28
+    },
+    {
+      "ticker": "IRM",
+      "company": "Iron Mountain Incorporated",
       "days_since": 1,
-      "last_price": 134.36
-    },
-    {
-      "ticker": "KR",
-      "company": "The Kroger Co.",
-      "days_since": 2,
-      "last_price": 63.47
-    },
-    {
-      "ticker": "GIS",
-      "company": "General Mills, Inc.",
-      "days_since": 2,
-      "last_price": 46.31
-    },
-    {
-      "ticker": "CLX",
-      "company": "The Clorox Company",
-      "days_since": 2,
-      "last_price": 106.92
+      "last_price": 101.5
     },
     {
       "ticker": "GRMN",
       "company": "Garmin Ltd.",
-      "days_since": 1,
-      "last_price": 204.01
+      "days_since": 2,
+      "last_price": 203.79
     },
     {
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals Incorporated",
-      "days_since": 1,
-      "last_price": 416.38
-    },
-    {
-      "ticker": "CSCO",
-      "company": "Cisco Systems, Inc.",
-      "days_since": 0,
-      "last_price": 71.37
-    },
-    {
-      "ticker": "CNP",
-      "company": "CenterPoint Energy, Inc.",
       "days_since": 2,
-      "last_price": 39.15
+      "last_price": 417.76
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 1,
-      "last_price": 35.44
+      "last_price": 35.82
     },
     {
       "ticker": "TGT",
       "company": "Target Corporation",
-      "days_since": 0,
-      "last_price": 89.9
+      "days_since": 1,
+      "last_price": 89.62
     },
     {
-      "ticker": "KIM",
-      "company": "Kimco Realty Corporation",
-      "days_since": 2,
-      "last_price": 20.33
+      "ticker": "AXON",
+      "company": "Axon Enterprise, Inc.",
+      "days_since": 1,
+      "last_price": 597.71
     }
   ]
 }
