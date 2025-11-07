@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-07 21:21:26 UTC",
+  "timestamp": "2025-11-07 22:26:04 UTC",
   "signals": [
     {
       "ticker": "GLW",
@@ -14,18 +14,6 @@
       "last_price": 176.11
     },
     {
-      "ticker": "FRT",
-      "company": "Federal Realty Investment Trust",
-      "days_since": 1,
-      "last_price": 97.34
-    },
-    {
-      "ticker": "DUK",
-      "company": "Duke Energy Corporation",
-      "days_since": 2,
-      "last_price": 123.66
-    },
-    {
       "ticker": "GE",
       "company": "GE Aerospace",
       "days_since": 0,
@@ -34,7 +22,7 @@
     {
       "ticker": "DB1.DE",
       "company": "Deutsche B\u00f6rse AG",
-      "days_since": 0,
+      "days_since": 1,
       "last_price": 209.2
     },
     {
@@ -56,12 +44,6 @@
       "last_price": 188.15
     },
     {
-      "ticker": "BLK",
-      "company": "BlackRock, Inc.",
-      "days_since": 2,
-      "last_price": 1082.2
-    },
-    {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
       "days_since": 0,
@@ -70,32 +52,14 @@
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
-      "days_since": 1,
-      "last_price": 37.21
-    },
-    {
-      "ticker": "RSG",
-      "company": "Republic Services, Inc.",
       "days_since": 2,
-      "last_price": 205.59
-    },
-    {
-      "ticker": "LNT",
-      "company": "Alliant Energy Corporation",
-      "days_since": 0,
-      "last_price": 67.34
+      "last_price": 37.21
     },
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 0,
       "last_price": 176.11
-    },
-    {
-      "ticker": "ATO",
-      "company": "Atmos Energy Corporation",
-      "days_since": 2,
-      "last_price": 176.91
     },
     {
       "ticker": "EVRG",
@@ -106,97 +70,31 @@
     {
       "ticker": "FRE.DE",
       "company": "Fresenius SE & Co. KGaA",
-      "days_since": 0,
+      "days_since": 2,
       "last_price": 47.64
     },
     {
-      "ticker": "DTE.DE",
-      "company": "Deutsche Telekom AG",
-      "days_since": 1,
-      "last_price": 26.66
-    },
-    {
-      "ticker": "BLK",
-      "company": "BlackRock, Inc.",
+      "ticker": "IRM",
+      "company": "Iron Mountain Incorporated",
       "days_since": 2,
-      "last_price": 1082.2
-    },
-    {
-      "ticker": "DTE",
-      "company": "DTE Energy Company",
-      "days_since": 1,
-      "last_price": 136.75
-    },
-    {
-      "ticker": "KR",
-      "company": "The Kroger Co.",
-      "days_since": 2,
-      "last_price": 64.91
-    },
-    {
-      "ticker": "GIS",
-      "company": "General Mills, Inc.",
-      "days_since": 2,
-      "last_price": 46.88
-    },
-    {
-      "ticker": "CLX",
-      "company": "The Clorox Company",
-      "days_since": 2,
-      "last_price": 107.36
-    },
-    {
-      "ticker": "GRMN",
-      "company": "Garmin Ltd.",
-      "days_since": 0,
-      "last_price": 201.16
-    },
-    {
-      "ticker": "VRTX",
-      "company": "Vertex Pharmaceuticals Incorporated",
-      "days_since": 1,
-      "last_price": 409.47
-    },
-    {
-      "ticker": "CSCO",
-      "company": "Cisco Systems, Inc.",
-      "days_since": 0,
-      "last_price": 71.07
-    },
-    {
-      "ticker": "CNP",
-      "company": "CenterPoint Energy, Inc.",
-      "days_since": 2,
-      "last_price": 39.41
-    },
-    {
-      "ticker": "NOW",
-      "company": "ServiceNow, Inc.",
-      "days_since": 0,
-      "last_price": 861.87
+      "last_price": 104.12
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
-      "days_since": 1,
+      "days_since": 2,
       "last_price": 37.21
     },
     {
       "ticker": "TGT",
       "company": "Target Corporation",
-      "days_since": 1,
-      "last_price": 91.24
-    },
-    {
-      "ticker": "KIM",
-      "company": "Kimco Realty Corporation",
       "days_since": 2,
-      "last_price": 20.54
+      "last_price": 91.24
     },
     {
       "ticker": "AXON",
       "company": "Axon Enterprise, Inc.",
-      "days_since": 0,
+      "days_since": 2,
       "last_price": 602.51
     }
   ]
