@@ -1,23 +1,11 @@
 {
-  "timestamp": "2025-11-07 19:22:46 UTC",
+  "timestamp": "2025-11-07 20:28:01 UTC",
   "signals": [
-    {
-      "ticker": "GLW",
-      "company": "Corning Incorporated",
-      "days_since": 0,
-      "last_price": 84.44
-    },
-    {
-      "ticker": "PTC",
-      "company": "PTC Inc.",
-      "days_since": 0,
-      "last_price": 174.96
-    },
     {
       "ticker": "GE",
       "company": "GE Aerospace",
       "days_since": 0,
-      "last_price": 306.76
+      "last_price": 308.27
     },
     {
       "ticker": "DB1.DE",
@@ -29,43 +17,43 @@
       "ticker": "MET",
       "company": "MetLife, Inc.",
       "days_since": 0,
-      "last_price": 75.74
+      "last_price": 75.95
     },
     {
       "ticker": "NRG",
       "company": "NRG Energy, Inc.",
       "days_since": 0,
-      "last_price": 168.88
+      "last_price": 170.82
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA Corporation",
       "days_since": 0,
-      "last_price": 184.96
+      "last_price": 185.66
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
       "days_since": 0,
-      "last_price": 341.91
+      "last_price": 344.26
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 2,
-      "last_price": 36.92
+      "last_price": 37.1
     },
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 0,
-      "last_price": 174.96
+      "last_price": 175.03
     },
     {
       "ticker": "EVRG",
       "company": "Evergy, Inc.",
       "days_since": 0,
-      "last_price": 75.12
+      "last_price": 75.48
     },
     {
       "ticker": "FRE.DE",
@@ -77,25 +65,25 @@
       "ticker": "IRM",
       "company": "Iron Mountain Incorporated",
       "days_since": 2,
-      "last_price": 102.46
+      "last_price": 103.2
     },
     {
       "ticker": "VNO",
       "company": "Vornado Realty Trust",
       "days_since": 2,
-      "last_price": 36.94
+      "last_price": 37.12
     },
     {
       "ticker": "TGT",
       "company": "Target Corporation",
       "days_since": 2,
-      "last_price": 90.26
+      "last_price": 91.43
     },
     {
       "ticker": "AXON",
       "company": "Axon Enterprise, Inc.",
       "days_since": 2,
-      "last_price": 602.11
+      "last_price": 607.18
     }
   ]
 }
