@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-07 13:35:17 UTC",
+  "timestamp": "2025-11-07 14:28:09 UTC",
   "signals": [
     {
       "ticker": "PTC",
@@ -30,6 +30,12 @@
       "company": "Vornado Realty Trust",
       "days_since": 1,
       "last_price": 35.62
+    },
+    {
+      "ticker": "RSG",
+      "company": "Republic Services, Inc.",
+      "days_since": 2,
+      "last_price": 204.23
     },
     {
       "ticker": "LNT",
@@ -68,6 +74,12 @@
       "last_price": 134.09
     },
     {
+      "ticker": "KR",
+      "company": "The Kroger Co.",
+      "days_since": 2,
+      "last_price": 63.43
+    },
+    {
       "ticker": "IRM",
       "company": "Iron Mountain Incorporated",
       "days_since": 1,
@@ -94,7 +106,7 @@
     {
       "ticker": "TGT",
       "company": "Target Corporation",
-      "days_since": 1,
+      "days_since": 0,
       "last_price": 89.15
     },
     {
