@@ -1,23 +1,23 @@
 {
-  "timestamp": "2025-11-10 14:29:26 UTC",
+  "timestamp": "2025-11-10 15:30:49 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
-      "days_since": 0,
-      "last_price": 85.48
+      "days_since": 1,
+      "last_price": 87.92
     },
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
-      "days_since": 0,
-      "last_price": 176.11
+      "days_since": 1,
+      "last_price": 176.52
     },
     {
       "ticker": "GE",
       "company": "GE Aerospace",
-      "days_since": 0,
-      "last_price": 307.27
+      "days_since": 1,
+      "last_price": 310.54
     },
     {
       "ticker": "DB1.DE",
@@ -28,74 +28,44 @@
     {
       "ticker": "MET",
       "company": "MetLife, Inc.",
-      "days_since": 0,
-      "last_price": 76.15
+      "days_since": 1,
+      "last_price": 77.81
     },
     {
       "ticker": "NRG",
       "company": "NRG Energy, Inc.",
-      "days_since": 0,
-      "last_price": 172.5
+      "days_since": 1,
+      "last_price": 169.65
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA Corporation",
-      "days_since": 0,
-      "last_price": 188.15
+      "days_since": 1,
+      "last_price": 196.59
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
-      "days_since": 0,
-      "last_price": 349.43
-    },
-    {
-      "ticker": "VNO",
-      "company": "Vornado Realty Trust",
-      "days_since": 2,
-      "last_price": 37.21
+      "days_since": 1,
+      "last_price": 357.77
     },
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
-      "days_since": 0,
-      "last_price": 176.11
+      "days_since": 1,
+      "last_price": 176.52
     },
     {
       "ticker": "EVRG",
       "company": "Evergy, Inc.",
-      "days_since": 0,
-      "last_price": 75.59
+      "days_since": 1,
+      "last_price": 76.62
     },
     {
       "ticker": "FRE.DE",
       "company": "Fresenius SE & Co. KGaA",
       "days_since": 2,
       "last_price": 48.25
-    },
-    {
-      "ticker": "IRM",
-      "company": "Iron Mountain Incorporated",
-      "days_since": 2,
-      "last_price": 104.12
-    },
-    {
-      "ticker": "VNO",
-      "company": "Vornado Realty Trust",
-      "days_since": 2,
-      "last_price": 37.21
-    },
-    {
-      "ticker": "TGT",
-      "company": "Target Corporation",
-      "days_since": 2,
-      "last_price": 91.24
-    },
-    {
-      "ticker": "AXON",
-      "company": "Axon Enterprise, Inc.",
-      "days_since": 2,
-      "last_price": 602.51
     }
   ]
 }
