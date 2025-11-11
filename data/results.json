@@ -1,71 +1,65 @@
 {
-  "timestamp": "2025-11-11 17:26:06 UTC",
+  "timestamp": "2025-11-11 18:38:29 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 2,
-      "last_price": 87.71
+      "last_price": 87.65
     },
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 2,
-      "last_price": 178.74
+      "last_price": 178.93
     },
     {
       "ticker": "GE",
       "company": "GE Aerospace",
       "days_since": 2,
-      "last_price": 308.88
-    },
-    {
-      "ticker": "DB1.DE",
-      "company": "Deutsche B\u00f6rse AG",
-      "days_since": 2,
-      "last_price": 208.5
+      "last_price": 311.02
     },
     {
       "ticker": "MET",
       "company": "MetLife, Inc.",
       "days_since": 2,
-      "last_price": 77.71
+      "last_price": 77.6
     },
     {
       "ticker": "NRG",
       "company": "NRG Energy, Inc.",
       "days_since": 2,
-      "last_price": 163.74
+      "last_price": 163.27
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA Corporation",
       "days_since": 2,
-      "last_price": 192.81
+      "last_price": 193.44
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
       "days_since": 2,
-      "last_price": 356.17
+      "last_price": 355.69
     },
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 2,
-      "last_price": 178.74
+      "last_price": 178.93
     },
     {
       "ticker": "EVRG",
       "company": "Evergy, Inc.",
       "days_since": 2,
-      "last_price": 76.61
+      "last_price": 76.81
     },
     {
       "ticker": "CLX",
       "company": "The Clorox Company",
       "days_since": 1,
-      "last_price": 106.07
+      "last_price": 105.85
     }
   ]
 }
