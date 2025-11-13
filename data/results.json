@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-11-13 14:27:38 UTC",
+  "timestamp": "2025-11-13 15:33:12 UTC",
   "signals": [
     {
-      "ticker": "CLX",
-      "company": "The Clorox Company",
-      "days_since": 2,
-      "last_price": 104.7
+      "ticker": "IRM",
+      "company": "Iron Mountain Incorporated",
+      "days_since": 0,
+      "last_price": 95.56
     }
   ]
 }
