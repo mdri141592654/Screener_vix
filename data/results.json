@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-11-13 18:39:29 UTC",
+  "timestamp": "2025-11-13 19:23:01 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 0,
-      "last_price": 82.21
+      "last_price": 81.99
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
       "days_since": 0,
-      "last_price": 334.58
+      "last_price": 335.74
     },
     {
       "ticker": "IRM",
       "company": "Iron Mountain Incorporated",
       "days_since": 0,
-      "last_price": 92.0
+      "last_price": 91.78
     },
     {
       "ticker": "APH",
       "company": "Amphenol Corporation",
       "days_since": 0,
-      "last_price": 135.21
+      "last_price": 135.6
     }
   ]
 }
