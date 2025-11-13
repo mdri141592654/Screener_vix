@@ -1,11 +1,23 @@
 {
-  "timestamp": "2025-11-13 15:33:12 UTC",
+  "timestamp": "2025-11-13 16:34:34 UTC",
   "signals": [
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "days_since": 0,
+      "last_price": 336.12
+    },
     {
       "ticker": "IRM",
       "company": "Iron Mountain Incorporated",
       "days_since": 0,
-      "last_price": 95.56
+      "last_price": 92.89
+    },
+    {
+      "ticker": "APH",
+      "company": "Amphenol Corporation",
+      "days_since": 0,
+      "last_price": 136.31
     }
   ]
 }
