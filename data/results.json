@@ -1,41 +1,41 @@
 {
-  "timestamp": "2025-11-14 19:23:41 UTC",
+  "timestamp": "2025-11-14 20:32:08 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 0,
-      "last_price": 82.88
+      "last_price": 82.46
     },
     {
       "ticker": "GE",
       "company": "GE Aerospace",
       "days_since": 0,
-      "last_price": 305.89
+      "last_price": 305.01
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
       "days_since": 0,
-      "last_price": 343.61
+      "last_price": 342.2
     },
     {
       "ticker": "JCI",
       "company": "Johnson Controls International plc",
       "days_since": 0,
-      "last_price": 119.42
+      "last_price": 118.91
     },
     {
       "ticker": "IRM",
       "company": "Iron Mountain Incorporated",
       "days_since": 0,
-      "last_price": 91.99
+      "last_price": 92.0
     },
     {
       "ticker": "APH",
       "company": "Amphenol Corporation",
       "days_since": 0,
-      "last_price": 135.39
+      "last_price": 134.58
     },
     {
       "ticker": "HOLX",
@@ -47,19 +47,19 @@
       "ticker": "ROK",
       "company": "Rockwell Automation, Inc.",
       "days_since": 0,
-      "last_price": 377.53
+      "last_price": 377.27
     },
     {
       "ticker": "LRCX",
       "company": "Lam Research Corporation",
       "days_since": 0,
-      "last_price": 150.05
+      "last_price": 149.05
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 0,
-      "last_price": 158.82
+      "last_price": 157.29
     }
   ]
 }
