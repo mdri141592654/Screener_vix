@@ -1,65 +1,71 @@
 {
-  "timestamp": "2025-11-17 14:29:10 UTC",
+  "timestamp": "2025-11-17 15:31:07 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
-      "days_since": 0,
-      "last_price": 82.06
+      "days_since": 1,
+      "last_price": 82.04
     },
     {
       "ticker": "GE",
       "company": "GE Aerospace",
-      "days_since": 0,
-      "last_price": 304.82
+      "days_since": 1,
+      "last_price": 304.48
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
-      "days_since": 0,
-      "last_price": 342.46
+      "days_since": 1,
+      "last_price": 347.61
     },
     {
       "ticker": "JCI",
       "company": "Johnson Controls International plc",
-      "days_since": 0,
-      "last_price": 118.72
+      "days_since": 1,
+      "last_price": 118.79
     },
     {
       "ticker": "IRM",
       "company": "Iron Mountain Incorporated",
       "days_since": 0,
-      "last_price": 91.37
+      "last_price": 90.15
     },
     {
       "ticker": "APH",
       "company": "Amphenol Corporation",
-      "days_since": 0,
-      "last_price": 133.74
+      "days_since": 1,
+      "last_price": 134.2
     },
     {
       "ticker": "HOLX",
       "company": "Hologic, Inc.",
       "days_since": 0,
-      "last_price": 74.15
+      "last_price": 74.21
     },
     {
       "ticker": "ROK",
       "company": "Rockwell Automation, Inc.",
-      "days_since": 0,
-      "last_price": 377.13
+      "days_since": 1,
+      "last_price": 374.65
     },
     {
       "ticker": "LRCX",
       "company": "Lam Research Corporation",
+      "days_since": 1,
+      "last_price": 151.26
+    },
+    {
+      "ticker": "ALGN",
+      "company": "Align Technology, Inc.",
       "days_since": 0,
-      "last_price": 148.26
+      "last_price": 135.99
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
-      "days_since": 0,
-      "last_price": 157.83
+      "days_since": 1,
+      "last_price": 163.71
     }
   ]
 }
