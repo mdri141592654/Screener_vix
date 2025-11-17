@@ -1,47 +1,53 @@
 {
-  "timestamp": "2025-11-17 18:49:31 UTC",
+  "timestamp": "2025-11-17 19:23:14 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
       "days_since": 1,
-      "last_price": 81.21
+      "last_price": 80.63
     },
     {
       "ticker": "GE",
       "company": "GE Aerospace",
       "days_since": 1,
-      "last_price": 303.32
+      "last_price": 300.7
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
       "days_since": 1,
-      "last_price": 346.34
+      "last_price": 342.13
+    },
+    {
+      "ticker": "BK",
+      "company": "The Bank of New York Mellon Corporation",
+      "days_since": 0,
+      "last_price": 107.74
     },
     {
       "ticker": "JCI",
       "company": "Johnson Controls International plc",
       "days_since": 0,
-      "last_price": 117.44
+      "last_price": 116.71
     },
     {
       "ticker": "IRM",
       "company": "Iron Mountain Incorporated",
       "days_since": 0,
-      "last_price": 90.54
+      "last_price": 89.88
     },
     {
       "ticker": "APH",
       "company": "Amphenol Corporation",
-      "days_since": 1,
-      "last_price": 133.16
+      "days_since": 0,
+      "last_price": 132.17
     },
     {
       "ticker": "STT",
       "company": "State Street Corporation",
       "days_since": 0,
-      "last_price": 114.36
+      "last_price": 113.19
     },
     {
       "ticker": "HOLX",
@@ -52,26 +58,26 @@
     {
       "ticker": "ROK",
       "company": "Rockwell Automation, Inc.",
-      "days_since": 1,
-      "last_price": 373.46
+      "days_since": 0,
+      "last_price": 370.52
     },
     {
       "ticker": "LRCX",
       "company": "Lam Research Corporation",
       "days_since": 1,
-      "last_price": 149.27
+      "last_price": 147.57
     },
     {
       "ticker": "ALGN",
       "company": "Align Technology, Inc.",
       "days_since": 0,
-      "last_price": 134.33
+      "last_price": 133.13
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 1,
-      "last_price": 161.95
+      "last_price": 159.58
     }
   ]
 }
