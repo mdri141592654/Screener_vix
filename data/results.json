@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18 02:05:53 UTC",
+  "timestamp": "2025-11-18 03:49:44 UTC",
   "signals": [
     {
       "ticker": "GLW",
@@ -72,12 +72,6 @@
       "company": "Lam Research Corporation",
       "days_since": 0,
       "last_price": 147.46
-    },
-    {
-      "ticker": "BEN",
-      "company": "Franklin Resources, Inc.",
-      "days_since": 0,
-      "last_price": 21.56
     },
     {
       "ticker": "ALGN",
