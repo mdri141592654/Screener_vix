@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-11-19 14:29:22 UTC",
+  "timestamp": "2025-11-19 15:30:27 UTC",
   "signals": [
     {
       "ticker": "GLW",
       "company": "Corning Incorporated",
-      "days_since": 0,
-      "last_price": 80.12
+      "days_since": 1,
+      "last_price": 82.01
     },
     {
       "ticker": "GE",
       "company": "GE Aerospace",
-      "days_since": 0,
-      "last_price": 296.01
+      "days_since": 1,
+      "last_price": 299.79
     },
     {
       "ticker": "MTX.DE",
@@ -20,88 +20,82 @@
       "last_price": 353.3
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "days_since": 2,
-      "last_price": 340.5
-    },
-    {
       "ticker": "BK",
       "company": "The Bank of New York Mellon Corporation",
+      "days_since": 1,
+      "last_price": 107.29
+    },
+    {
+      "ticker": "BSX",
+      "company": "Boston Scientific Corporation",
       "days_since": 0,
-      "last_price": 107.5
+      "last_price": 97.53
     },
     {
       "ticker": "JCI",
       "company": "Johnson Controls International plc",
       "days_since": 0,
-      "last_price": 114.44
+      "last_price": 114.91
     },
     {
       "ticker": "IRM",
       "company": "Iron Mountain Incorporated",
-      "days_since": 0,
-      "last_price": 89.28
+      "days_since": 1,
+      "last_price": 87.51
     },
     {
       "ticker": "PRU",
       "company": "Prudential Financial, Inc.",
-      "days_since": 0,
-      "last_price": 102.64
+      "days_since": 1,
+      "last_price": 102.38
     },
     {
       "ticker": "APH",
       "company": "Amphenol Corporation",
-      "days_since": 0,
-      "last_price": 132.44
+      "days_since": 1,
+      "last_price": 136.13
     },
     {
       "ticker": "MA",
       "company": "Mastercard Incorporated",
-      "days_since": 0,
-      "last_price": 527.58
+      "days_since": 1,
+      "last_price": 527.24
     },
     {
       "ticker": "STT",
       "company": "State Street Corporation",
-      "days_since": 0,
-      "last_price": 113.2
+      "days_since": 1,
+      "last_price": 113.47
     },
     {
       "ticker": "HOLX",
       "company": "Hologic, Inc.",
-      "days_since": 0,
-      "last_price": 74.11
+      "days_since": 1,
+      "last_price": 74.17
     },
     {
       "ticker": "ROK",
       "company": "Rockwell Automation, Inc.",
-      "days_since": 0,
-      "last_price": 366.01
+      "days_since": 1,
+      "last_price": 370.94
     },
     {
       "ticker": "LRCX",
       "company": "Lam Research Corporation",
-      "days_since": 0,
-      "last_price": 143.24
+      "days_since": 1,
+      "last_price": 150.03
     },
     {
       "ticker": "BEN",
       "company": "Franklin Resources, Inc.",
-      "days_since": 0,
-      "last_price": 21.44
+      "days_since": 1,
+      "last_price": 21.39
     },
     {
       "ticker": "ALGN",
       "company": "Align Technology, Inc.",
-      "days_since": 0,
-      "last_price": 132.28
-    },
-    {
-      "ticker": "WDC",
-      "company": "Western Digital Corporation",
-      "days_since": 2,
-      "last_price": 152.86
+      "days_since": 1,
+      "last_price": 133.99
     }
   ]
 }
