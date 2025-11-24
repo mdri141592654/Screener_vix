@@ -1,59 +1,59 @@
 {
-  "timestamp": "2025-11-24 16:32:15 UTC",
+  "timestamp": "2025-11-24 17:28:08 UTC",
   "signals": [
     {
       "ticker": "GE",
       "company": "GE Aerospace",
       "days_since": 1,
-      "last_price": 291.0
+      "last_price": 291.78
     },
     {
       "ticker": "BWA",
       "company": "BorgWarner Inc.",
       "days_since": 2,
-      "last_price": 42.95
+      "last_price": 42.88
     },
     {
       "ticker": "BSX",
       "company": "Boston Scientific Corporation",
       "days_since": 2,
-      "last_price": 97.42
+      "last_price": 97.8
     },
     {
       "ticker": "JCI",
       "company": "Johnson Controls International plc",
       "days_since": 1,
-      "last_price": 114.48
+      "last_price": 114.43
     },
     {
       "ticker": "PYPL",
       "company": "PayPal Holdings, Inc.",
       "days_since": 2,
-      "last_price": 60.34
+      "last_price": 60.51
     },
     {
       "ticker": "TGT",
       "company": "Target Corporation",
       "days_since": 2,
-      "last_price": 86.21
+      "last_price": 86.12
     },
     {
       "ticker": "LRCX",
       "company": "Lam Research Corporation",
       "days_since": 1,
-      "last_price": 150.93
+      "last_price": 151.7
     },
     {
       "ticker": "UBER",
       "company": "Uber Technologies, Inc.",
       "days_since": 1,
-      "last_price": 84.06
+      "last_price": 83.77
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 1,
-      "last_price": 150.54
+      "last_price": 151.85
     }
   ]
 }
