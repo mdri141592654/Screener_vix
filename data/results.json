@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-24 13:41:35 UTC",
+  "timestamp": "2025-11-24 14:30:15 UTC",
   "signals": [
     {
       "ticker": "GE",
@@ -52,14 +52,14 @@
     {
       "ticker": "LRCX",
       "company": "Lam Research Corporation",
-      "days_since": 0,
-      "last_price": 142.65
+      "days_since": 1,
+      "last_price": 145.86
     },
     {
       "ticker": "UBER",
       "company": "Uber Technologies, Inc.",
-      "days_since": 0,
-      "last_price": 83.87
+      "days_since": 1,
+      "last_price": 84.15
     },
     {
       "ticker": "WDC",
