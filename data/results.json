@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-11-25 15:31:45 UTC",
+  "timestamp": "2025-11-25 16:38:47 UTC",
   "signals": [
     {
       "ticker": "GE",
       "company": "GE Aerospace",
       "days_since": 2,
-      "last_price": 289.35
+      "last_price": 291.04
     },
     {
       "ticker": "JCI",
       "company": "Johnson Controls International plc",
       "days_since": 2,
-      "last_price": 113.99
+      "last_price": 113.93
     },
     {
       "ticker": "LRCX",
       "company": "Lam Research Corporation",
       "days_since": 2,
-      "last_price": 146.76
+      "last_price": 148.0
     },
     {
       "ticker": "UBER",
       "company": "Uber Technologies, Inc.",
       "days_since": 2,
-      "last_price": 83.02
+      "last_price": 83.6
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 2,
-      "last_price": 151.09
+      "last_price": 152.36
     }
   ]
 }
