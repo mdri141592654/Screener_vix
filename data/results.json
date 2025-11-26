@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26 13:42:39 UTC",
+  "timestamp": "2025-11-26 14:30:20 UTC",
   "signals": [
     {
       "ticker": "GE",
@@ -12,24 +12,6 @@
       "company": "Johnson Controls International plc",
       "days_since": 2,
       "last_price": 114.65
-    },
-    {
-      "ticker": "LRCX",
-      "company": "Lam Research Corporation",
-      "days_since": 2,
-      "last_price": 151.93
-    },
-    {
-      "ticker": "UBER",
-      "company": "Uber Technologies, Inc.",
-      "days_since": 2,
-      "last_price": 83.69
-    },
-    {
-      "ticker": "WDC",
-      "company": "Western Digital Corporation",
-      "days_since": 2,
-      "last_price": 155.41
     }
   ]
 }
