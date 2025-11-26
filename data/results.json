@@ -1,17 +1,11 @@
 {
-  "timestamp": "2025-11-26 14:30:20 UTC",
+  "timestamp": "2025-11-26 15:29:14 UTC",
   "signals": [
     {
-      "ticker": "GE",
-      "company": "GE Aerospace",
-      "days_since": 2,
-      "last_price": 293.44
-    },
-    {
-      "ticker": "JCI",
-      "company": "Johnson Controls International plc",
-      "days_since": 2,
-      "last_price": 114.65
+      "ticker": "DE",
+      "company": "Deere & Company",
+      "days_since": 0,
+      "last_price": 481.37
     }
   ]
 }
