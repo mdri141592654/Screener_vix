@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-12-01 13:43:46 UTC",
+  "timestamp": "2025-12-01 14:32:26 UTC",
   "signals": [
     {
       "ticker": "DE",
       "company": "Deere & Company",
       "days_since": 0,
-      "last_price": 464.49
+      "last_price": 463.74
     }
   ]
 }
