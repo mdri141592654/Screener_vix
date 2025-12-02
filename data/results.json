@@ -1,17 +1,23 @@
 {
-  "timestamp": "2025-12-02 16:39:56 UTC",
+  "timestamp": "2025-12-02 17:31:15 UTC",
   "signals": [
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 203.05
+      "last_price": 202.85
     },
     {
       "ticker": "DE",
       "company": "Deere & Company",
       "days_since": 1,
-      "last_price": 471.95
+      "last_price": 473.06
+    },
+    {
+      "ticker": "YUM",
+      "company": "Yum! Brands, Inc.",
+      "days_since": 0,
+      "last_price": 148.35
     }
   ]
 }
