@@ -1,11 +1,17 @@
 {
-  "timestamp": "2025-12-02 14:32:18 UTC",
+  "timestamp": "2025-12-02 15:33:50 UTC",
   "signals": [
+    {
+      "ticker": "WELL",
+      "company": "Welltower Inc.",
+      "days_since": 0,
+      "last_price": 202.47
+    },
     {
       "ticker": "DE",
       "company": "Deere & Company",
       "days_since": 1,
-      "last_price": 470.02
+      "last_price": 469.83
     }
   ]
 }
