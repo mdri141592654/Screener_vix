@@ -1,65 +1,65 @@
 {
-  "timestamp": "2025-12-03 20:34:00 UTC",
+  "timestamp": "2025-12-03 21:28:27 UTC",
   "signals": [
     {
       "ticker": "LNT",
       "company": "Alliant Energy Corporation",
       "days_since": 0,
-      "last_price": 66.46
+      "last_price": 66.38
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 201.87
+      "last_price": 201.92
     },
     {
       "ticker": "NI",
       "company": "NiSource Inc.",
       "days_since": 0,
-      "last_price": 41.9
+      "last_price": 41.88
     },
     {
       "ticker": "L",
       "company": "Loews Corporation",
       "days_since": 0,
-      "last_price": 105.46
+      "last_price": 105.75
     },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 1,
-      "last_price": 29.91
+      "last_price": 29.84
     },
     {
       "ticker": "DE",
       "company": "Deere & Company",
       "days_since": 2,
-      "last_price": 481.17
+      "last_price": 481.82
     },
     {
       "ticker": "ETR",
       "company": "Entergy Corporation",
       "days_since": 0,
-      "last_price": 94.0
+      "last_price": 94.24
     },
     {
       "ticker": "AEP",
       "company": "American Electric Power Company, Inc.",
       "days_since": 0,
-      "last_price": 118.4
+      "last_price": 118.06
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 0,
-      "last_price": 148.35
+      "last_price": 148.52
     },
     {
       "ticker": "CNP",
       "company": "CenterPoint Energy, Inc.",
       "days_since": 0,
-      "last_price": 38.36
+      "last_price": 38.38
     }
   ]
 }
