@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-05 17:27:15 UTC",
+  "timestamp": "2025-12-05 18:39:15 UTC",
   "signals": [
     {
       "ticker": "LNT",
       "company": "Alliant Energy Corporation",
       "days_since": 0,
-      "last_price": 65.36
+      "last_price": 65.46
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 1,
-      "last_price": 203.98
+      "last_price": 204.35
     },
     {
       "ticker": "NI",
@@ -23,55 +23,55 @@
       "ticker": "L",
       "company": "Loews Corporation",
       "days_since": 0,
-      "last_price": 102.89
+      "last_price": 103.1
     },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 0,
-      "last_price": 29.42
+      "last_price": 29.36
     },
     {
       "ticker": "ALL",
       "company": "The Allstate Corporation",
       "days_since": 0,
-      "last_price": 202.36
+      "last_price": 203.13
     },
     {
       "ticker": "ETR",
       "company": "Entergy Corporation",
       "days_since": 2,
-      "last_price": 94.25
+      "last_price": 94.36
     },
     {
       "ticker": "AEP",
       "company": "American Electric Power Company, Inc.",
       "days_since": 1,
-      "last_price": 117.56
+      "last_price": 117.75
     },
     {
       "ticker": "DTE",
       "company": "DTE Energy Company",
       "days_since": 1,
-      "last_price": 131.49
+      "last_price": 131.75
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 0,
-      "last_price": 146.85
+      "last_price": 146.33
     },
     {
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, Inc.",
       "days_since": 0,
-      "last_price": 129.15
+      "last_price": 129.73
     },
     {
       "ticker": "CNP",
       "company": "CenterPoint Energy, Inc.",
       "days_since": 2,
-      "last_price": 38.51
+      "last_price": 38.57
     }
   ]
 }
