@@ -1,71 +1,83 @@
 {
-  "timestamp": "2025-12-08 14:32:43 UTC",
+  "timestamp": "2025-12-08 15:33:10 UTC",
   "signals": [
     {
       "ticker": "DUK",
       "company": "Duke Energy Corporation",
       "days_since": 0,
-      "last_price": 115.76
+      "last_price": 114.36
     },
     {
       "ticker": "LNT",
       "company": "Alliant Energy Corporation",
       "days_since": 1,
-      "last_price": 65.59
+      "last_price": 65.34
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 2,
-      "last_price": 204.31
+      "last_price": 203.54
     },
     {
       "ticker": "NI",
       "company": "NiSource Inc.",
       "days_since": 2,
-      "last_price": 41.79
+      "last_price": 41.51
+    },
+    {
+      "ticker": "PG",
+      "company": "The Procter & Gamble Company",
+      "days_since": 0,
+      "last_price": 139.7
     },
     {
       "ticker": "L",
       "company": "Loews Corporation",
       "days_since": 0,
-      "last_price": 102.6
+      "last_price": 102.69
     },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 1,
-      "last_price": 29.68
+      "last_price": 29.88
     },
     {
       "ticker": "ALL",
       "company": "The Allstate Corporation",
       "days_since": 0,
-      "last_price": 201.52
+      "last_price": 199.88
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes Inc.",
+      "days_since": 0,
+      "last_price": 26.74
     },
     {
       "ticker": "AEP",
       "company": "American Electric Power Company, Inc.",
-      "days_since": 1,
-      "last_price": 116.83
+      "days_since": 0,
+      "last_price": 115.33
     },
     {
       "ticker": "DTE",
       "company": "DTE Energy Company",
       "days_since": 2,
-      "last_price": 131.05
+      "last_price": 130.05
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 0,
-      "last_price": 143.98
+      "last_price": 144.03
     },
     {
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, Inc.",
       "days_since": 0,
-      "last_price": 128.83
+      "last_price": 129.38
     }
   ]
 }
