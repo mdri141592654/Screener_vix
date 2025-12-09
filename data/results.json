@@ -1,95 +1,77 @@
 {
-  "timestamp": "2025-12-09 13:45:53 UTC",
+  "timestamp": "2025-12-09 14:32:01 UTC",
   "signals": [
     {
       "ticker": "DUK",
       "company": "Duke Energy Corporation",
-      "days_since": 0,
-      "last_price": 115.22
+      "days_since": 1,
+      "last_price": 116.0
     },
     {
       "ticker": "LNT",
       "company": "Alliant Energy Corporation",
       "days_since": 1,
-      "last_price": 64.78
-    },
-    {
-      "ticker": "WELL",
-      "company": "Welltower Inc.",
-      "days_since": 2,
-      "last_price": 200.88
-    },
-    {
-      "ticker": "NI",
-      "company": "NiSource Inc.",
-      "days_since": 2,
-      "last_price": 41.32
+      "last_price": 65.08
     },
     {
       "ticker": "PG",
       "company": "The Procter & Gamble Company",
       "days_since": 0,
-      "last_price": 138.34
+      "last_price": 139.29
     },
     {
       "ticker": "ATO",
       "company": "Atmos Energy Corporation",
-      "days_since": 0,
-      "last_price": 167.07
+      "days_since": 1,
+      "last_price": 168.49
     },
     {
       "ticker": "L",
       "company": "Loews Corporation",
       "days_since": 0,
-      "last_price": 101.41
+      "last_price": 101.93
     },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 2,
-      "last_price": 30.04
+      "last_price": 30.6
     },
     {
       "ticker": "ALL",
       "company": "The Allstate Corporation",
-      "days_since": 0,
-      "last_price": 200.87
+      "days_since": 1,
+      "last_price": 202.49
     },
     {
       "ticker": "INVH",
       "company": "Invitation Homes Inc.",
       "days_since": 0,
-      "last_price": 26.66
+      "last_price": 26.88
     },
     {
       "ticker": "AEP",
       "company": "American Electric Power Company, Inc.",
       "days_since": 1,
-      "last_price": 115.73
+      "last_price": 116.53
     },
     {
       "ticker": "BSX",
       "company": "Boston Scientific Corporation",
-      "days_since": 0,
-      "last_price": 93.84
-    },
-    {
-      "ticker": "DTE",
-      "company": "DTE Energy Company",
-      "days_since": 2,
-      "last_price": 130.0
+      "days_since": 1,
+      "last_price": 94.68
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 0,
-      "last_price": 142.53
+      "last_price": 143.4
     },
     {
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, Inc.",
-      "days_since": 0,
-      "last_price": 129.73
+      "days_since": 1,
+      "last_price": 130.85
     }
   ]
 }
