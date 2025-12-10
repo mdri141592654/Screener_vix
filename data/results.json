@@ -1,95 +1,95 @@
 {
-  "timestamp": "2025-12-10 13:02:15 UTC",
+  "timestamp": "2025-12-10 14:32:58 UTC",
   "signals": [
     {
       "ticker": "DUK",
       "company": "Duke Energy Corporation",
-      "days_since": 1,
-      "last_price": 115.24
+      "days_since": 2,
+      "last_price": 115.21
     },
     {
       "ticker": "ROL",
       "company": "Rollins, Inc.",
       "days_since": 0,
-      "last_price": 58.01
+      "last_price": 57.92
     },
     {
       "ticker": "LNT",
       "company": "Alliant Energy Corporation",
-      "days_since": 1,
+      "days_since": 2,
       "last_price": 64.89
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 195.8
+      "last_price": 197.01
     },
     {
       "ticker": "PG",
       "company": "The Procter & Gamble Company",
-      "days_since": 0,
-      "last_price": 139.63
+      "days_since": 1,
+      "last_price": 140.09
     },
     {
       "ticker": "ATO",
       "company": "Atmos Energy Corporation",
-      "days_since": 0,
-      "last_price": 166.28
+      "days_since": 1,
+      "last_price": 166.5
     },
     {
       "ticker": "L",
       "company": "Loews Corporation",
-      "days_since": 0,
-      "last_price": 102.56
+      "days_since": 1,
+      "last_price": 102.31
     },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 0,
-      "last_price": 28.47
+      "last_price": 28.35
     },
     {
       "ticker": "ALL",
       "company": "The Allstate Corporation",
-      "days_since": 0,
-      "last_price": 201.05
+      "days_since": 1,
+      "last_price": 201.07
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
-      "days_since": 0,
-      "last_price": 24.51
+      "days_since": 1,
+      "last_price": 24.53
     },
     {
       "ticker": "INVH",
       "company": "Invitation Homes Inc.",
       "days_since": 0,
-      "last_price": 26.09
+      "last_price": 26.32
     },
     {
       "ticker": "AEP",
       "company": "American Electric Power Company, Inc.",
-      "days_since": 1,
-      "last_price": 116.07
+      "days_since": 2,
+      "last_price": 116.11
     },
     {
       "ticker": "BSX",
       "company": "Boston Scientific Corporation",
-      "days_since": 1,
-      "last_price": 92.53
+      "days_since": 2,
+      "last_price": 92.33
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
-      "days_since": 0,
-      "last_price": 143.04
+      "days_since": 1,
+      "last_price": 143.1
     },
     {
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals Incorporated",
-      "days_since": 0,
-      "last_price": 437.01
+      "days_since": 1,
+      "last_price": 439.45
     },
     {
       "ticker": "HIG",
