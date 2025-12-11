@@ -1,101 +1,101 @@
 {
-  "timestamp": "2025-12-11 20:33:12 UTC",
+  "timestamp": "2025-12-11 21:31:16 UTC",
   "signals": [
     {
       "ticker": "DUK",
       "company": "Duke Energy Corporation",
       "days_since": 1,
-      "last_price": 114.13
+      "last_price": 114.39
     },
     {
       "ticker": "ROL",
       "company": "Rollins, Inc.",
       "days_since": 1,
-      "last_price": 59.43
+      "last_price": 59.49
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 184.12
+      "last_price": 184.97
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
       "days_since": 0,
-      "last_price": 26.79
+      "last_price": 26.82
     },
     {
       "ticker": "PG",
       "company": "The Procter & Gamble Company",
       "days_since": 2,
-      "last_price": 140.63
+      "last_price": 140.76
     },
     {
       "ticker": "ATO",
       "company": "Atmos Energy Corporation",
       "days_since": 2,
-      "last_price": 166.7
+      "last_price": 167.09
     },
     {
       "ticker": "L",
       "company": "Loews Corporation",
       "days_since": 2,
-      "last_price": 104.74
+      "last_price": 104.65
     },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 1,
-      "last_price": 28.72
+      "last_price": 28.43
     },
     {
       "ticker": "ALL",
       "company": "The Allstate Corporation",
       "days_since": 2,
-      "last_price": 206.8
+      "last_price": 206.82
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 1,
-      "last_price": 24.4
+      "last_price": 24.3
     },
     {
       "ticker": "INVH",
       "company": "Invitation Homes Inc.",
       "days_since": 1,
-      "last_price": 26.64
+      "last_price": 26.55
     },
     {
       "ticker": "AEP",
       "company": "American Electric Power Company, Inc.",
       "days_since": 1,
-      "last_price": 114.03
+      "last_price": 114.26
     },
     {
       "ticker": "VTR",
       "company": "Ventas, Inc.",
       "days_since": 0,
-      "last_price": 77.02
+      "last_price": 77.27
     },
     {
       "ticker": "YUM",
       "company": "Yum! Brands, Inc.",
       "days_since": 2,
-      "last_price": 148.85
+      "last_price": 148.12
     },
     {
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals Incorporated",
       "days_since": 1,
-      "last_price": 445.92
+      "last_price": 445.93
     },
     {
       "ticker": "CNP",
       "company": "CenterPoint Energy, Inc.",
       "days_since": 1,
-      "last_price": 37.31
+      "last_price": 37.33
     }
   ]
 }
