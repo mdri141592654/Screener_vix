@@ -1,71 +1,71 @@
 {
-  "timestamp": "2025-12-12 16:37:01 UTC",
+  "timestamp": "2025-12-12 17:28:20 UTC",
   "signals": [
     {
       "ticker": "DUK",
       "company": "Duke Energy Corporation",
       "days_since": 2,
-      "last_price": 114.64
+      "last_price": 114.65
     },
     {
       "ticker": "ROL",
       "company": "Rollins, Inc.",
       "days_since": 2,
-      "last_price": 59.54
+      "last_price": 59.78
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 0,
-      "last_price": 185.62
+      "last_price": 186.85
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
       "days_since": 1,
-      "last_price": 26.61
+      "last_price": 26.76
     },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 2,
-      "last_price": 28.89
+      "last_price": 28.67
     },
     {
       "ticker": "T",
       "company": "AT&T Inc.",
       "days_since": 2,
-      "last_price": 24.74
+      "last_price": 24.66
     },
     {
       "ticker": "INVH",
       "company": "Invitation Homes Inc.",
       "days_since": 2,
-      "last_price": 26.52
+      "last_price": 26.34
     },
     {
       "ticker": "AEP",
       "company": "American Electric Power Company, Inc.",
       "days_since": 2,
-      "last_price": 114.07
+      "last_price": 114.15
     },
     {
       "ticker": "VTR",
       "company": "Ventas, Inc.",
       "days_since": 0,
-      "last_price": 77.61
+      "last_price": 77.96
     },
     {
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals Incorporated",
       "days_since": 2,
-      "last_price": 452.36
+      "last_price": 450.67
     },
     {
       "ticker": "CNP",
       "company": "CenterPoint Energy, Inc.",
       "days_since": 2,
-      "last_price": 37.62
+      "last_price": 37.72
     }
   ]
 }
