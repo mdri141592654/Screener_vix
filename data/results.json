@@ -1,11 +1,17 @@
 {
-  "timestamp": "2025-12-15 21:28:55 UTC",
+  "timestamp": "2025-12-15 22:29:36 UTC",
   "signals": [
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
       "days_since": 0,
       "last_price": 339.81
+    },
+    {
+      "ticker": "ROL",
+      "company": "Rollins, Inc.",
+      "days_since": 2,
+      "last_price": 60.02
     },
     {
       "ticker": "WELL",
@@ -16,14 +22,8 @@
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
-      "days_since": 1,
-      "last_price": 26.72
-    },
-    {
-      "ticker": "INVH",
-      "company": "Invitation Homes Inc.",
       "days_since": 2,
-      "last_price": 26.9
+      "last_price": 26.72
     },
     {
       "ticker": "VTR",
@@ -36,6 +36,12 @@
       "company": "Cboe Global Markets, Inc.",
       "days_since": 0,
       "last_price": 246.75
+    },
+    {
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals Incorporated",
+      "days_since": 2,
+      "last_price": 455.71
     }
   ]
 }
