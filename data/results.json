@@ -1,41 +1,41 @@
 {
-  "timestamp": "2025-12-16 16:40:37 UTC",
+  "timestamp": "2025-12-16 17:31:50 UTC",
   "signals": [
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
       "days_since": 1,
-      "last_price": 338.97
+      "last_price": 339.7
     },
     {
       "ticker": "WELL",
       "company": "Welltower Inc.",
       "days_since": 2,
-      "last_price": 190.8
+      "last_price": 190.75
     },
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
       "days_since": 2,
-      "last_price": 26.41
+      "last_price": 26.38
     },
     {
       "ticker": "VTR",
       "company": "Ventas, Inc.",
       "days_since": 2,
-      "last_price": 79.07
+      "last_price": 78.71
     },
     {
       "ticker": "CBOE",
       "company": "Cboe Global Markets, Inc.",
       "days_since": 1,
-      "last_price": 250.94
+      "last_price": 251.0
     },
     {
       "ticker": "APA",
       "company": "APA Corporation",
       "days_since": 0,
-      "last_price": 24.06
+      "last_price": 23.96
     }
   ]
 }
