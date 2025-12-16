@@ -1,17 +1,11 @@
 {
-  "timestamp": "2025-12-16 02:16:03 UTC",
+  "timestamp": "2025-12-16 04:02:39 UTC",
   "signals": [
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
       "days_since": 0,
       "last_price": 339.81
-    },
-    {
-      "ticker": "ROL",
-      "company": "Rollins, Inc.",
-      "days_since": 2,
-      "last_price": 60.02
     },
     {
       "ticker": "WELL",
@@ -22,7 +16,7 @@
     {
       "ticker": "KMI",
       "company": "Kinder Morgan, Inc.",
-      "days_since": 2,
+      "days_since": 1,
       "last_price": 26.72
     },
     {
@@ -36,12 +30,6 @@
       "company": "Cboe Global Markets, Inc.",
       "days_since": 0,
       "last_price": 246.75
-    },
-    {
-      "ticker": "VRTX",
-      "company": "Vertex Pharmaceuticals Incorporated",
-      "days_since": 2,
-      "last_price": 455.71
     }
   ]
 }
