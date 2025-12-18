@@ -1,41 +1,41 @@
 {
-  "timestamp": "2025-12-18 20:30:11 UTC",
+  "timestamp": "2025-12-18 21:25:52 UTC",
   "signals": [
     {
       "ticker": "NRG",
       "company": "NRG Energy, Inc.",
       "days_since": 1,
-      "last_price": 154.76
+      "last_price": 154.64
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
       "days_since": 1,
-      "last_price": 330.57
+      "last_price": 329.88
     },
     {
       "ticker": "GEV",
       "company": "GE Vernova Inc.",
       "days_since": 1,
-      "last_price": 641.67
+      "last_price": 639.43
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 2,
-      "last_price": 178.4
+      "last_price": 178.6
     },
     {
       "ticker": "CSCO",
       "company": "Cisco Systems, Inc.",
       "days_since": 1,
-      "last_price": 77.2
+      "last_price": 76.95
     },
     {
       "ticker": "APA",
       "company": "APA Corporation",
       "days_since": 0,
-      "last_price": 23.75
+      "last_price": 23.81
     }
   ]
 }
