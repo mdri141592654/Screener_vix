@@ -1,41 +1,41 @@
 {
-  "timestamp": "2025-12-19 17:26:27 UTC",
+  "timestamp": "2025-12-19 18:41:20 UTC",
   "signals": [
     {
       "ticker": "NRG",
       "company": "NRG Energy, Inc.",
       "days_since": 2,
-      "last_price": 156.39
+      "last_price": 156.63
     },
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
       "days_since": 2,
-      "last_price": 335.68
+      "last_price": 336.88
     },
     {
       "ticker": "GEV",
       "company": "GE Vernova Inc.",
       "days_since": 2,
-      "last_price": 650.79
+      "last_price": 654.55
     },
     {
       "ticker": "CSCO",
       "company": "Cisco Systems, Inc.",
       "days_since": 2,
-      "last_price": 78.43
+      "last_price": 78.67
     },
     {
       "ticker": "APA",
       "company": "APA Corporation",
       "days_since": 1,
-      "last_price": 24.34
+      "last_price": 24.2
     },
     {
       "ticker": "NSC",
       "company": "Norfolk Southern Corporation",
       "days_since": 0,
-      "last_price": 291.71
+      "last_price": 292.11
     }
   ]
 }
