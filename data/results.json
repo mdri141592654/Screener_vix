@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-22 15:31:49 UTC",
+  "timestamp": "2025-12-22 16:37:46 UTC",
   "signals": [
     {
       "ticker": "APA",
       "company": "APA Corporation",
       "days_since": 2,
-      "last_price": 24.68
+      "last_price": 24.67
     },
     {
       "ticker": "NSC",
       "company": "Norfolk Southern Corporation",
       "days_since": 0,
-      "last_price": 291.16
+      "last_price": 292.39
     }
   ]
 }
