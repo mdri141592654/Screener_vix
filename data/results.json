@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-23 17:29:25 UTC",
+  "timestamp": "2025-12-23 18:42:32 UTC",
   "signals": [
     {
       "ticker": "CLX",
       "company": "The Clorox Company",
       "days_since": 0,
-      "last_price": 97.12
+      "last_price": 97.55
     },
     {
       "ticker": "KHC",
       "company": "The Kraft Heinz Company",
       "days_since": 0,
-      "last_price": 23.67
+      "last_price": 23.7
     },
     {
       "ticker": "NSC",
       "company": "Norfolk Southern Corporation",
       "days_since": 1,
-      "last_price": 291.23
+      "last_price": 291.06
     },
     {
       "ticker": "ALGN",
       "company": "Align Technology, Inc.",
       "days_since": 0,
-      "last_price": 156.47
+      "last_price": 156.14
     }
   ]
 }
