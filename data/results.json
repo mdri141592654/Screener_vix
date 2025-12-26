@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-12-26 18:40:13 UTC",
+  "timestamp": "2025-12-26 19:23:20 UTC",
   "signals": [
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
       "days_since": 2,
-      "last_price": 7357.46
+      "last_price": 7344.17
     },
     {
       "ticker": "CLX",
       "company": "The Clorox Company",
       "days_since": 2,
-      "last_price": 98.0
+      "last_price": 97.98
     },
     {
       "ticker": "KHC",
       "company": "The Kraft Heinz Company",
       "days_since": 2,
-      "last_price": 23.99
+      "last_price": 23.98
     },
     {
       "ticker": "HOLX",
       "company": "Hologic, Inc.",
       "days_since": 0,
-      "last_price": 74.44
+      "last_price": 74.43
     },
     {
       "ticker": "ALGN",
       "company": "Align Technology, Inc.",
       "days_since": 1,
-      "last_price": 157.52
+      "last_price": 157.54
     }
   ]
 }
