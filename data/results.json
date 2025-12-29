@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-29 17:27:27 UTC",
+  "timestamp": "2025-12-29 18:41:14 UTC",
   "signals": [
     {
       "ticker": "HOLX",
       "company": "Hologic, Inc.",
       "days_since": 1,
-      "last_price": 74.51
+      "last_price": 74.5
     },
     {
       "ticker": "ALGN",
       "company": "Align Technology, Inc.",
       "days_since": 2,
-      "last_price": 157.65
+      "last_price": 157.95
     }
   ]
 }
