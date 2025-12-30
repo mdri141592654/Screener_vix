@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-12-30 18:43:31 UTC",
+  "timestamp": "2025-12-30 19:24:13 UTC",
   "signals": [
     {
       "ticker": "HOLX",
       "company": "Hologic, Inc.",
       "days_since": 2,
-      "last_price": 74.49
+      "last_price": 74.53
     }
   ]
 }
