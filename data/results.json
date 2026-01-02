@@ -1,35 +1,35 @@
 {
-  "timestamp": "2026-01-02 18:40:43 UTC",
+  "timestamp": "2026-01-02 19:20:41 UTC",
   "signals": [
     {
       "ticker": "FRT",
       "company": "Federal Realty Investment Trust",
       "days_since": 0,
-      "last_price": 99.12
+      "last_price": 99.4
     },
     {
       "ticker": "MET",
       "company": "MetLife, Inc.",
       "days_since": 0,
-      "last_price": 79.6
+      "last_price": 80.03
     },
     {
       "ticker": "BR",
       "company": "Broadridge Financial Solutions, Inc.",
       "days_since": 0,
-      "last_price": 219.57
+      "last_price": 220.59
     },
     {
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
       "days_since": 0,
-      "last_price": 96.07
+      "last_price": 96.19
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
       "days_since": 0,
-      "last_price": 432.56
+      "last_price": 434.78
     }
   ]
 }
