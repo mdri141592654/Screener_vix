@@ -1,12 +1,6 @@
 {
-  "timestamp": "2026-01-03 03:59:36 UTC",
+  "timestamp": "2026-01-03 04:41:32 UTC",
   "signals": [
-    {
-      "ticker": "FRT",
-      "company": "Federal Realty Investment Trust",
-      "days_since": 0,
-      "last_price": 99.03
-    },
     {
       "ticker": "MET",
       "company": "MetLife, Inc.",
