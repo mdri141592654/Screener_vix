@@ -1,71 +1,53 @@
 {
-  "timestamp": "2026-01-05 19:28:19 UTC",
+  "timestamp": "2026-01-05 20:35:32 UTC",
   "signals": [
     {
       "ticker": "MET",
       "company": "MetLife, Inc.",
       "days_since": 1,
-      "last_price": 82.84
-    },
-    {
-      "ticker": "CB",
-      "company": "Chubb Limited",
-      "days_since": 0,
-      "last_price": 316.1
+      "last_price": 82.25
     },
     {
       "ticker": "BR",
       "company": "Broadridge Financial Solutions, Inc.",
       "days_since": 0,
-      "last_price": 223.83
+      "last_price": 223.71
     },
     {
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
       "days_since": 1,
-      "last_price": 98.69
+      "last_price": 98.6
     },
     {
       "ticker": "GIS",
       "company": "General Mills, Inc.",
       "days_since": 0,
-      "last_price": 44.87
+      "last_price": 44.57
     },
     {
       "ticker": "VTR",
       "company": "Ventas, Inc.",
       "days_since": 0,
-      "last_price": 76.99
+      "last_price": 76.88
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
       "days_since": 0,
-      "last_price": 435.11
+      "last_price": 431.76
     },
     {
       "ticker": "FOXA",
       "company": "Fox Corporation",
       "days_since": 0,
-      "last_price": 76.22
-    },
-    {
-      "ticker": "STT",
-      "company": "State Street Corporation",
-      "days_since": 0,
-      "last_price": 134.66
-    },
-    {
-      "ticker": "BEN",
-      "company": "Franklin Resources, Inc.",
-      "days_since": 0,
-      "last_price": 24.77
+      "last_price": 75.99
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 0,
-      "last_price": 141.19
+      "last_price": 140.57
     }
   ]
 }
