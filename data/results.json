@@ -1,35 +1,53 @@
 {
-  "timestamp": "2026-01-05 14:35:24 UTC",
+  "timestamp": "2026-01-05 15:34:12 UTC",
   "signals": [
     {
       "ticker": "MET",
       "company": "MetLife, Inc.",
       "days_since": 1,
-      "last_price": 80.44
+      "last_price": 82.49
     },
     {
       "ticker": "BR",
       "company": "Broadridge Financial Solutions, Inc.",
       "days_since": 0,
-      "last_price": 220.0
+      "last_price": 222.55
     },
     {
       "ticker": "NDAQ",
       "company": "Nasdaq, Inc.",
       "days_since": 1,
-      "last_price": 96.5
+      "last_price": 98.07
+    },
+    {
+      "ticker": "GIS",
+      "company": "General Mills, Inc.",
+      "days_since": 0,
+      "last_price": 44.76
+    },
+    {
+      "ticker": "VTR",
+      "company": "Ventas, Inc.",
+      "days_since": 0,
+      "last_price": 75.28
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
       "days_since": 0,
-      "last_price": 431.49
+      "last_price": 431.48
+    },
+    {
+      "ticker": "BEN",
+      "company": "Franklin Resources, Inc.",
+      "days_since": 0,
+      "last_price": 24.62
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 0,
-      "last_price": 136.99
+      "last_price": 140.15
     }
   ]
 }
