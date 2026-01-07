@@ -1,71 +1,71 @@
 {
-  "timestamp": "2026-01-07 17:33:55 UTC",
+  "timestamp": "2026-01-07 18:45:54 UTC",
   "signals": [
     {
       "ticker": "BR",
       "company": "Broadridge Financial Solutions, Inc.",
       "days_since": 2,
-      "last_price": 220.84
+      "last_price": 220.81
     },
     {
       "ticker": "AIG",
       "company": "American International Group, Inc.",
       "days_since": 0,
-      "last_price": 77.89
+      "last_price": 77.72
     },
     {
       "ticker": "JCI",
       "company": "Johnson Controls International plc",
       "days_since": 1,
-      "last_price": 113.62
+      "last_price": 113.54
     },
     {
       "ticker": "GIS",
       "company": "General Mills, Inc.",
       "days_since": 0,
-      "last_price": 43.4
+      "last_price": 43.42
     },
     {
       "ticker": "VTR",
       "company": "Ventas, Inc.",
       "days_since": 2,
-      "last_price": 76.39
+      "last_price": 76.55
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
       "days_since": 2,
-      "last_price": 439.3
+      "last_price": 438.17
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
       "days_since": 1,
-      "last_price": 7288.67
+      "last_price": 7158.88
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 0,
-      "last_price": 176.29
+      "last_price": 176.65
     },
     {
       "ticker": "CSCO",
       "company": "Cisco Systems, Inc.",
       "days_since": 0,
-      "last_price": 74.56
+      "last_price": 74.93
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 1,
-      "last_price": 198.91
+      "last_price": 198.2
     },
     {
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "days_since": 2,
-      "last_price": 140.3
+      "last_price": 139.71
     }
   ]
 }
