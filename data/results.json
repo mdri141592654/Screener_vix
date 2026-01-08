@@ -1,95 +1,95 @@
 {
-  "timestamp": "2026-01-08 20:34:49 UTC",
+  "timestamp": "2026-01-08 21:31:25 UTC",
   "signals": [
     {
       "ticker": "NRG",
       "company": "NRG Energy, Inc.",
       "days_since": 0,
-      "last_price": 143.48
+      "last_price": 143.53
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 0,
-      "last_price": 1090.69
+      "last_price": 1087.92
     },
     {
       "ticker": "ALV.DE",
       "company": "Allianz SE",
-      "days_since": 1,
-      "last_price": 390.2
+      "days_since": 0,
+      "last_price": 384.8
     },
     {
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 0,
-      "last_price": 26.39
+      "last_price": 26.46
     },
     {
       "ticker": "AIG",
       "company": "American International Group, Inc.",
       "days_since": 0,
-      "last_price": 77.92
+      "last_price": 77.9
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 0,
-      "last_price": 1090.36
+      "last_price": 1087.92
     },
     {
       "ticker": "GEV",
       "company": "GE Vernova Inc.",
       "days_since": 0,
-      "last_price": 630.7
+      "last_price": 628.4
     },
     {
       "ticker": "JCI",
       "company": "Johnson Controls International plc",
       "days_since": 2,
-      "last_price": 111.18
+      "last_price": 111.29
     },
     {
       "ticker": "GIS",
       "company": "General Mills, Inc.",
       "days_since": 0,
-      "last_price": 43.87
+      "last_price": 43.92
     },
     {
       "ticker": "VTR",
       "company": "Ventas, Inc.",
       "days_since": 0,
-      "last_price": 74.79
+      "last_price": 75.08
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
       "days_since": 2,
-      "last_price": 7346.29
+      "last_price": 7385.58
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 0,
-      "last_price": 178.14
+      "last_price": 176.76
     },
     {
       "ticker": "CSCO",
       "company": "Cisco Systems, Inc.",
       "days_since": 0,
-      "last_price": 74.02
+      "last_price": 73.96
     },
     {
       "ticker": "NSC",
       "company": "Norfolk Southern Corporation",
       "days_since": 1,
-      "last_price": 290.12
+      "last_price": 289.72
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 0,
-      "last_price": 186.08
+      "last_price": 187.68
     }
   ]
 }
