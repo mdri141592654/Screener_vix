@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-08 17:35:40 UTC",
+  "timestamp": "2026-01-08 18:40:21 UTC",
   "signals": [
     {
       "ticker": "NRG",
       "company": "NRG Energy, Inc.",
       "days_since": 0,
-      "last_price": 143.41
+      "last_price": 142.5
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 0,
-      "last_price": 1087.88
+      "last_price": 1086.09
     },
     {
       "ticker": "ALV.DE",
@@ -23,61 +23,67 @@
       "ticker": "CPB",
       "company": "The Campbell's Company",
       "days_since": 0,
-      "last_price": 26.29
+      "last_price": 26.37
     },
     {
       "ticker": "AIG",
       "company": "American International Group, Inc.",
       "days_since": 0,
-      "last_price": 78.46
+      "last_price": 77.76
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 0,
-      "last_price": 1087.85
+      "last_price": 1085.49
+    },
+    {
+      "ticker": "GEV",
+      "company": "GE Vernova Inc.",
+      "days_since": 0,
+      "last_price": 622.33
     },
     {
       "ticker": "JCI",
       "company": "Johnson Controls International plc",
       "days_since": 2,
-      "last_price": 112.31
+      "last_price": 111.62
     },
     {
       "ticker": "GIS",
       "company": "General Mills, Inc.",
       "days_since": 0,
-      "last_price": 43.92
+      "last_price": 43.99
     },
     {
       "ticker": "NVR",
       "company": "NVR, Inc.",
       "days_since": 2,
-      "last_price": 7312.48
+      "last_price": 7313.0
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 0,
-      "last_price": 177.01
+      "last_price": 177.29
     },
     {
       "ticker": "CSCO",
       "company": "Cisco Systems, Inc.",
       "days_since": 0,
-      "last_price": 73.89
+      "last_price": 73.61
     },
     {
       "ticker": "NSC",
       "company": "Norfolk Southern Corporation",
       "days_since": 1,
-      "last_price": 289.94
+      "last_price": 290.04
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 0,
-      "last_price": 180.86
+      "last_price": 182.04
     }
   ]
 }
