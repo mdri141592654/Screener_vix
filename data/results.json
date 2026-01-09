@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-09 15:33:43 UTC",
+  "timestamp": "2026-01-09 16:39:35 UTC",
   "signals": [
     {
       "ticker": "NRG",
       "company": "NRG Energy, Inc.",
       "days_since": 1,
-      "last_price": 150.87
+      "last_price": 150.64
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 1,
-      "last_price": 1087.22
+      "last_price": 1085.59
     },
     {
       "ticker": "ALV.DE",
@@ -23,55 +23,55 @@
       "ticker": "AIG",
       "company": "American International Group, Inc.",
       "days_since": 0,
-      "last_price": 76.73
+      "last_price": 76.5
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 1,
-      "last_price": 1087.61
+      "last_price": 1085.6
     },
     {
       "ticker": "GEV",
       "company": "GE Vernova Inc.",
       "days_since": 1,
-      "last_price": 629.32
+      "last_price": 629.96
     },
     {
       "ticker": "GIS",
       "company": "General Mills, Inc.",
       "days_since": 1,
-      "last_price": 43.9
+      "last_price": 43.86
     },
     {
       "ticker": "VTR",
       "company": "Ventas, Inc.",
       "days_since": 1,
-      "last_price": 76.0
+      "last_price": 75.77
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 1,
-      "last_price": 179.62
+      "last_price": 179.87
     },
     {
       "ticker": "CSCO",
       "company": "Cisco Systems, Inc.",
       "days_since": 0,
-      "last_price": 74.07
+      "last_price": 73.81
     },
     {
       "ticker": "NSC",
       "company": "Norfolk Southern Corporation",
       "days_since": 2,
-      "last_price": 288.7
+      "last_price": 287.55
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 1,
-      "last_price": 189.25
+      "last_price": 191.21
     }
   ]
 }
