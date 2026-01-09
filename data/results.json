@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-09 13:03:11 UTC",
+  "timestamp": "2026-01-09 14:33:43 UTC",
   "signals": [
     {
       "ticker": "NRG",
       "company": "NRG Energy, Inc.",
-      "days_since": 0,
-      "last_price": 143.53
+      "days_since": 1,
+      "last_price": 148.6
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
-      "days_since": 0,
-      "last_price": 1087.92
+      "days_since": 1,
+      "last_price": 1091.67
     },
     {
       "ticker": "ALV.DE",
@@ -22,32 +22,26 @@
     {
       "ticker": "AIG",
       "company": "American International Group, Inc.",
-      "days_since": 0,
-      "last_price": 77.9
+      "days_since": 1,
+      "last_price": 78.35
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
-      "days_since": 0,
-      "last_price": 1087.92
+      "days_since": 1,
+      "last_price": 1091.67
     },
     {
       "ticker": "GEV",
       "company": "GE Vernova Inc.",
-      "days_since": 0,
-      "last_price": 628.4
-    },
-    {
-      "ticker": "JCI",
-      "company": "Johnson Controls International plc",
-      "days_since": 2,
-      "last_price": 111.29
+      "days_since": 1,
+      "last_price": 628.55
     },
     {
       "ticker": "GIS",
       "company": "General Mills, Inc.",
-      "days_since": 0,
-      "last_price": 43.92
+      "days_since": 1,
+      "last_price": 43.65
     },
     {
       "ticker": "VTR",
@@ -64,26 +58,26 @@
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
-      "days_since": 0,
-      "last_price": 176.76
+      "days_since": 1,
+      "last_price": 179.5
     },
     {
       "ticker": "CSCO",
       "company": "Cisco Systems, Inc.",
       "days_since": 0,
-      "last_price": 73.96
+      "last_price": 73.87
     },
     {
       "ticker": "NSC",
       "company": "Norfolk Southern Corporation",
-      "days_since": 1,
-      "last_price": 289.72
+      "days_since": 2,
+      "last_price": 290.1
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
-      "days_since": 0,
-      "last_price": 187.68
+      "days_since": 1,
+      "last_price": 188.95
     }
   ]
 }
