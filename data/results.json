@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-12 20:34:56 UTC",
+  "timestamp": "2026-01-12 21:30:15 UTC",
   "signals": [
     {
       "ticker": "NRG",
       "company": "NRG Energy, Inc.",
       "days_since": 2,
-      "last_price": 148.32
+      "last_price": 148.89
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 2,
-      "last_price": 1087.44
+      "last_price": 1089.26
     },
     {
       "ticker": "ALV.DE",
@@ -23,85 +23,85 @@
       "ticker": "AIG",
       "company": "American International Group, Inc.",
       "days_since": 0,
-      "last_price": 74.27
+      "last_price": 74.09
     },
     {
       "ticker": "BLK",
       "company": "BlackRock, Inc.",
       "days_since": 2,
-      "last_price": 1087.43
+      "last_price": 1089.26
     },
     {
       "ticker": "EG",
       "company": "Everest Group, Ltd.",
       "days_since": 0,
-      "last_price": 327.47
+      "last_price": 328.38
     },
     {
       "ticker": "GEV",
       "company": "GE Vernova Inc.",
       "days_since": 2,
-      "last_price": 639.87
+      "last_price": 639.77
     },
     {
       "ticker": "GIS",
       "company": "General Mills, Inc.",
       "days_since": 2,
-      "last_price": 43.53
+      "last_price": 43.48
     },
     {
       "ticker": "VTR",
       "company": "Ventas, Inc.",
       "days_since": 2,
-      "last_price": 75.62
+      "last_price": 75.68
     },
     {
       "ticker": "TRGP",
       "company": "Targa Resources Corp.",
       "days_since": 2,
-      "last_price": 174.27
+      "last_price": 174.98
     },
     {
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals Incorporated",
       "days_since": 0,
-      "last_price": 459.09
+      "last_price": 460.59
     },
     {
       "ticker": "MA",
       "company": "Mastercard Incorporated",
       "days_since": 0,
-      "last_price": 565.6
+      "last_price": 566.28
     },
     {
       "ticker": "FOXA",
       "company": "Fox Corporation",
       "days_since": 0,
-      "last_price": 73.83
+      "last_price": 73.96
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 44.57
+      "last_price": 44.37
     },
     {
       "ticker": "CSCO",
       "company": "Cisco Systems, Inc.",
       "days_since": 0,
-      "last_price": 73.79
+      "last_price": 74.01
     },
     {
       "ticker": "JPM",
       "company": "JPMorgan Chase & Co.",
       "days_since": 0,
-      "last_price": 323.72
+      "last_price": 324.49
     },
     {
       "ticker": "WDC",
       "company": "Western Digital Corporation",
       "days_since": 2,
-      "last_price": 213.0
+      "last_price": 212.14
     }
   ]
 }
