@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12 21:30:15 UTC",
+  "timestamp": "2026-01-12 22:27:59 UTC",
   "signals": [
     {
       "ticker": "NRG",
@@ -17,7 +17,7 @@
       "ticker": "ALV.DE",
       "company": "Allianz SE",
       "days_since": 0,
-      "last_price": 382.3
+      "last_price": 380.0
     },
     {
       "ticker": "AIG",
