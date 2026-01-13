@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-01-13 15:35:55 UTC",
+  "timestamp": "2026-01-13 16:42:55 UTC",
   "signals": [
+    {
+      "ticker": "CB",
+      "company": "Chubb Limited",
+      "days_since": 0,
+      "last_price": 303.24
+    },
     {
       "ticker": "ALV.DE",
       "company": "Allianz SE",
@@ -10,56 +16,86 @@
     {
       "ticker": "AIG",
       "company": "American International Group, Inc.",
-      "days_since": 1,
-      "last_price": 73.57
+      "days_since": 0,
+      "last_price": 72.88
     },
     {
       "ticker": "EG",
       "company": "Everest Group, Ltd.",
       "days_since": 0,
-      "last_price": 326.38
+      "last_price": 321.74
+    },
+    {
+      "ticker": "ROP",
+      "company": "Roper Technologies, Inc.",
+      "days_since": 0,
+      "last_price": 421.62
     },
     {
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals Incorporated",
       "days_since": 1,
-      "last_price": 461.74
+      "last_price": 459.71
+    },
+    {
+      "ticker": "HIG",
+      "company": "The Hartford Insurance Group, Inc.",
+      "days_since": 0,
+      "last_price": 133.85
     },
     {
       "ticker": "MA",
       "company": "Mastercard Incorporated",
       "days_since": 0,
-      "last_price": 539.5
+      "last_price": 541.58
     },
     {
       "ticker": "FOXA",
       "company": "Fox Corporation",
-      "days_since": 1,
-      "last_price": 73.46
+      "days_since": 0,
+      "last_price": 73.64
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay Communities, Inc.",
+      "days_since": 0,
+      "last_price": 175.49
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 44.16
+      "last_price": 44.1
+    },
+    {
+      "ticker": "WTW",
+      "company": "Willis Towers Watson Public Limited Company",
+      "days_since": 0,
+      "last_price": 325.14
     },
     {
       "ticker": "CSCO",
       "company": "Cisco Systems, Inc.",
       "days_since": 1,
-      "last_price": 74.79
+      "last_price": 74.81
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment Communities, Inc.",
+      "days_since": 0,
+      "last_price": 132.47
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
       "days_since": 0,
-      "last_price": 139.68
+      "last_price": 138.8
     },
     {
       "ticker": "JPM",
       "company": "JPMorgan Chase & Co.",
       "days_since": 0,
-      "last_price": 316.86
+      "last_price": 314.13
     }
   ]
 }
