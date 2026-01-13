@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-13 14:34:56 UTC",
+  "timestamp": "2026-01-13 15:35:55 UTC",
   "signals": [
     {
       "ticker": "ALV.DE",
@@ -11,49 +11,55 @@
       "ticker": "AIG",
       "company": "American International Group, Inc.",
       "days_since": 1,
-      "last_price": 74.07
+      "last_price": 73.57
     },
     {
       "ticker": "EG",
       "company": "Everest Group, Ltd.",
       "days_since": 0,
-      "last_price": 328.38
+      "last_price": 326.38
     },
     {
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals Incorporated",
       "days_since": 1,
-      "last_price": 459.0
+      "last_price": 461.74
     },
     {
       "ticker": "MA",
       "company": "Mastercard Incorporated",
       "days_since": 0,
-      "last_price": 552.16
+      "last_price": 539.5
     },
     {
       "ticker": "FOXA",
       "company": "Fox Corporation",
       "days_since": 1,
-      "last_price": 73.82
+      "last_price": 73.46
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 44.3
+      "last_price": 44.16
     },
     {
       "ticker": "CSCO",
       "company": "Cisco Systems, Inc.",
       "days_since": 1,
-      "last_price": 74.16
+      "last_price": 74.79
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow, Inc.",
+      "days_since": 0,
+      "last_price": 139.68
     },
     {
       "ticker": "JPM",
       "company": "JPMorgan Chase & Co.",
       "days_since": 0,
-      "last_price": 321.91
+      "last_price": 316.86
     }
   ]
 }
