@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-01-14 02:28:06 UTC",
+  "timestamp": "2026-01-14 04:14:53 UTC",
   "signals": [
+    {
+      "ticker": "PTC",
+      "company": "PTC Inc.",
+      "days_since": 0,
+      "last_price": 169.37
+    },
     {
       "ticker": "MET",
       "company": "MetLife, Inc.",
@@ -18,6 +24,12 @@
       "company": "Allianz SE",
       "days_since": 1,
       "last_price": 379.8
+    },
+    {
+      "ticker": "PTC",
+      "company": "PTC Inc.",
+      "days_since": 0,
+      "last_price": 169.37
     },
     {
       "ticker": "ALL",
