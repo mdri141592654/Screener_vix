@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-01-14 14:35:14 UTC",
+  "timestamp": "2026-01-14 15:34:09 UTC",
   "signals": [
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 1,
-      "last_price": 168.9
+      "last_price": 170.42
     },
     {
       "ticker": "MET",
       "company": "MetLife, Inc.",
       "days_since": 1,
-      "last_price": 76.99
+      "last_price": 77.57
     },
     {
       "ticker": "CB",
       "company": "Chubb Limited",
-      "days_since": 1,
-      "last_price": 301.54
+      "days_since": 0,
+      "last_price": 301.46
     },
     {
       "ticker": "ALV.DE",
@@ -29,97 +29,103 @@
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 1,
-      "last_price": 168.9
+      "last_price": 170.42
     },
     {
       "ticker": "ALL",
       "company": "The Allstate Corporation",
       "days_since": 0,
-      "last_price": 197.04
+      "last_price": 197.51
     },
     {
       "ticker": "AIG",
       "company": "American International Group, Inc.",
       "days_since": 1,
-      "last_price": 72.69
+      "last_price": 72.92
     },
     {
       "ticker": "EG",
       "company": "Everest Group, Ltd.",
       "days_since": 1,
-      "last_price": 321.67
+      "last_price": 323.47
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
       "days_since": 1,
-      "last_price": 425.72
+      "last_price": 428.19
+    },
+    {
+      "ticker": "BXP",
+      "company": "BXP, Inc.",
+      "days_since": 0,
+      "last_price": 65.29
     },
     {
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals Incorporated",
-      "days_since": 1,
-      "last_price": 453.22
+      "days_since": 0,
+      "last_price": 452.8
     },
     {
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, Inc.",
       "days_since": 0,
-      "last_price": 132.03
+      "last_price": 132.48
     },
     {
       "ticker": "MA",
       "company": "Mastercard Incorporated",
       "days_since": 0,
-      "last_price": 543.53
+      "last_price": 543.57
     },
     {
       "ticker": "FOXA",
       "company": "Fox Corporation",
       "days_since": 1,
-      "last_price": 73.51
+      "last_price": 73.37
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities, Inc.",
       "days_since": 1,
-      "last_price": 178.82
+      "last_price": 180.45
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 43.45
+      "last_price": 43.29
     },
     {
       "ticker": "WTW",
       "company": "Willis Towers Watson Public Limited Company",
       "days_since": 1,
-      "last_price": 327.59
+      "last_price": 328.92
     },
     {
       "ticker": "CSCO",
       "company": "Cisco Systems, Inc.",
       "days_since": 2,
-      "last_price": 74.9
+      "last_price": 74.61
     },
     {
       "ticker": "MAA",
       "company": "Mid-America Apartment Communities, Inc.",
       "days_since": 1,
-      "last_price": 134.7
+      "last_price": 135.17
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
       "days_since": 0,
-      "last_price": 137.82
+      "last_price": 136.75
     },
     {
       "ticker": "JPM",
       "company": "JPMorgan Chase & Co.",
       "days_since": 0,
-      "last_price": 310.4
+      "last_price": 307.43
     }
   ]
 }
