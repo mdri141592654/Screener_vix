@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15 10:34:54 UTC",
+  "timestamp": "2026-01-15 11:29:38 UTC",
   "signals": [
     {
       "ticker": "PTC",
@@ -81,7 +81,7 @@
     },
     {
       "ticker": "FOXA",
-      "company": "Fox Corporation",
+      "company": "Unbekannt",
       "days_since": 0,
       "last_price": 73.09
     },
