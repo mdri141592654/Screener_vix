@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16 21:30:14 UTC",
+  "timestamp": "2026-01-16 22:30:55 UTC",
   "signals": [
     {
       "ticker": "PTC",
@@ -22,8 +22,8 @@
     {
       "ticker": "ALV.DE",
       "company": "Allianz SE",
-      "days_since": 1,
-      "last_price": 382.1
+      "days_since": 2,
+      "last_price": 380.6
     },
     {
       "ticker": "PTC",
@@ -42,6 +42,12 @@
       "company": "Fresenius SE & Co. KGaA",
       "days_since": 1,
       "last_price": 49.83
+    },
+    {
+      "ticker": "DTE.DE",
+      "company": "Deutsche Telekom AG",
+      "days_since": 0,
+      "last_price": 27.05
     },
     {
       "ticker": "BSX",
