@@ -1,47 +1,47 @@
 {
-  "timestamp": "2026-01-20 15:40:31 UTC",
+  "timestamp": "2026-01-20 16:46:34 UTC",
   "signals": [
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 0,
-      "last_price": 163.49
+      "last_price": 161.85
     },
     {
       "ticker": "MET",
       "company": "MetLife, Inc.",
       "days_since": 0,
-      "last_price": 76.63
+      "last_price": 76.36
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA Corporation",
       "days_since": 0,
-      "last_price": 181.29
+      "last_price": 179.71
     },
     {
       "ticker": "BWA",
       "company": "BorgWarner Inc.",
       "days_since": 0,
-      "last_price": 46.65
+      "last_price": 46.56
     },
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
       "days_since": 0,
-      "last_price": 163.49
+      "last_price": 161.85
     },
     {
       "ticker": "ALL",
       "company": "The Allstate Corporation",
       "days_since": 1,
-      "last_price": 195.28
+      "last_price": 194.52
     },
     {
       "ticker": "BK",
       "company": "The Bank of New York Mellon Corporation",
       "days_since": 0,
-      "last_price": 121.41
+      "last_price": 120.82
     },
     {
       "ticker": "FRE.DE",
@@ -59,61 +59,61 @@
       "ticker": "BSX",
       "company": "Boston Scientific Corporation",
       "days_since": 2,
-      "last_price": 89.23
+      "last_price": 89.4
     },
     {
       "ticker": "ROP",
       "company": "Roper Technologies, Inc.",
       "days_since": 1,
-      "last_price": 409.92
+      "last_price": 408.42
     },
     {
       "ticker": "PRU",
       "company": "Prudential Financial, Inc.",
       "days_since": 0,
-      "last_price": 110.73
+      "last_price": 110.07
     },
     {
       "ticker": "GRMN",
       "company": "Garmin Ltd.",
       "days_since": 0,
-      "last_price": 204.88
+      "last_price": 203.49
     },
     {
       "ticker": "VRTX",
       "company": "Vertex Pharmaceuticals Incorporated",
       "days_since": 0,
-      "last_price": 438.17
+      "last_price": 438.54
     },
     {
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, Inc.",
       "days_since": 1,
-      "last_price": 129.87
+      "last_price": 129.65
     },
     {
       "ticker": "FOXA",
       "company": "Fox Corporation",
       "days_since": 0,
-      "last_price": 72.32
+      "last_price": 72.33
     },
     {
       "ticker": "ALLY",
       "company": "Ally Financial Inc.",
       "days_since": 0,
-      "last_price": 43.18
+      "last_price": 42.92
     },
     {
       "ticker": "STT",
       "company": "State Street Corporation",
       "days_since": 0,
-      "last_price": 125.36
+      "last_price": 124.85
     },
     {
       "ticker": "JPM",
       "company": "JPMorgan Chase & Co.",
       "days_since": 2,
-      "last_price": 310.56
+      "last_price": 308.77
     },
     {
       "ticker": "DAY",
@@ -125,7 +125,7 @@
       "ticker": "UAL",
       "company": "United Airlines Holdings, Inc.",
       "days_since": 0,
-      "last_price": 111.28
+      "last_price": 111.54
     }
   ]
 }
